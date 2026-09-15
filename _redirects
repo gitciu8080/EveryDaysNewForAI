@@ -1,0 +1,4 @@
+# Cloudflare Pages 重定向规则
+/feed    /feed.xml 200
+/rss     /feed.xml 200
+/data    /data/2026-09-15.json 200

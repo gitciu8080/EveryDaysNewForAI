@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI 晨报 · EveryDay's New For AI</title>
+    <link>https://everydaysnewforai.pages.dev/</link>
+    <description>每日 AI 情报站：AI 大事、本地模型动态、模型排行榜与新闻速览。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 15 Sep 2026 22:30:00 +0800</lastBuildDate>
+    <atom:link href="https://everydaysnewforai.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <generator>AI晨报 handcrafted feed</generator>
+
+    <item>
+      <title>盖茨基金会宣布投入 10 亿美元推动 AI</title>
+      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908nh1g.html</link>
+      <guid isPermaLink="false">ai-morning-20260915-1</guid>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0800</pubDate>
+      <description>西雅图消息：盖茨基金会宣布计划未来两年至少投入 10 亿美元，推动人工智能及基于 AI 的解决方案发展。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>黄仁勋公开反对「AI 降速」呼声</title>
+      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908nh1g.html</link>
+      <guid isPermaLink="false">ai-morning-20260915-2</guid>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 +0800</pubDate>
+      <description>英伟达 CEO 黄仁勋在峰会上反对放慢 AI 发展速度的呼吁，认为 AI 风险被夸大；存储芯片概念股走强。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>2026 人工智能产业大会官宣：10 月 14-16 日济南启幕</title>
+      <link>https://www.sd.chinanews.com.cn/2/2026/0915/103997.html</link>
+      <guid isPermaLink="false">ai-morning-20260915-3</guid>
+      <pubDate>Tue, 15 Sep 2026 09:00:00 +0800</pubDate>
+      <description>主题「加快推进人工智能赋能新型工业化」，将设 AI 投融资路演并集中发布具身智能等创新成果。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>Anthropic 发布 9 月威胁情报报告</title>
+      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
+      <guid isPermaLink="false">ai-morning-20260915-4</guid>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 +0800</pubDate>
+      <description>披露 2025 年 12 月至 2026 年 8 月间被扰乱威胁行为者的案例研究，覆盖七大危害领域。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>Sam Altman：OpenAI 2026 年不会上市</title>
+      <link>https://aiweekly.co/ai-news-today/edition/2026-09-15</link>
+      <guid isPermaLink="false">ai-morning-20260915-5</guid>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 +0800</pubDate>
+      <description>Altman 称出于安全考虑此时进行 IPO「不明智」，OpenAI 今年不寻求上市。</description>
+      <category>公司动态</category>
+    </item>
+    <item>
+      <title>Qwen 3.6-27B：本地编码新王者（SWE-bench 77.2%）</title>
+      <link>https://aithinkerlab.com/best-local-llm-models-privacy-dev/</link>
+      <guid isPermaLink="false">ai-morning-20260915-6</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0800</pubDate>
+      <description>被评为主流本地编码最强实用选择，兼顾隐私与性能。</description>
+      <category>本地模型</category>
+    </item>
+    <item>
+      <title>Kimi K3 开放权重登顶 LMArena 前端代码竞技场</title>
+      <link>https://www.swfte.com/lmsys-leaderboard</link>
+      <guid isPermaLink="false">ai-morning-20260915-7</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0800</pubDate>
+      <description>首个在编码赛道夺得头名的开放权重模型；综合榜 Claude Opus 4.8 以约 1580 Elo 领跑。</description>
+      <category>排行榜</category>
+    </item>
+    <item>
+      <title>「模型疲劳」：Anthropic、OpenAI、Meta、Google 同周密集发版</title>
+      <link>https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html</link>
+      <guid isPermaLink="false">ai-morning-20260915-8</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 +0800</pubDate>
+      <description>行业发布节奏过快引发「模型疲劳」讨论。</description>
+      <category>新闻速览</category>
+    </item>
+  </channel>
+</rss>
