@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-16",
+  "dateLabel": "2026 年 9 月 16 日 · 星期三",
+  "collectedAt": "08:00",
+  "events": [
+    {
+      "tag": "治理",
+      "time": "09-14 发布",
+      "title": "《人工智能安全治理框架 3.0》发布，央视今日专题聚焦",
+      "desc": "网安标委（TC260）在国家网络安全宣传周开幕式发布《框架 3.0》，延续「风险分类、技术应对、综合治理」核心逻辑；央视《新闻 1+1》今日专题解读。",
+      "src": "中国网信网",
+      "href": "https://www.cac.gov.cn/2026-09/14/c_1791137092283345.htm"
+    },
+    {
+      "tag": "行业标准",
+      "time": "09 月",
+      "title": "OpenAI、Anthropic、Google 密谈组建 AI 安全标准机构",
+      "desc": "The Information 报道三大巨头就共建行业安全标准机构幕后讨论，与百余家公司「失控 AI」联名倡议呼应。",
+      "src": "The Information",
+      "href": "https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police"
+    },
+    {
+      "tag": "巨头动向",
+      "time": "09-16",
+      "title": "美科技巨头呼吁 AI「降速」，盘算不止于安全",
+      "desc": "新浪 AI 热点小时报：降速呼吁另有商业与监管考量；「AI 向善普惠」成共识，中外人士建言缩小数字鸿沟。",
+      "src": "新浪 AI 热点小时报",
+      "href": "https://k.sina.com.cn/article_7857201856_1d45362c001908nj3o.html"
+    },
+    {
+      "tag": "模型安全",
+      "time": "09-02",
+      "title": "三大新模型点燃安全辩论：OpenAI「Astra」获 Critical 评级",
+      "desc": "OpenAI、Google、Anthropic 密集发布新模型，据报道「Astra」安全评测达「Critical」级，能力越界风险引发争论。",
+      "src": "Rediff",
+      "href": "https://m.rediff.com/business/report/new-ai-models-launched-safety-concerns-spark-debate/20260902.htm"
+    },
+    {
+      "tag": "商业",
+      "time": "09 月",
+      "title": "OpenAI、Anthropic、Google 卷入大模型价格战",
+      "desc": "三家竞相压低 token 定价「没有一家赚钱」；即将上市的 OpenAI 被曝考虑大幅下调价格巩固市场地位。",
+      "src": "Sherwood News",
+      "href": "https://sherwood.news/tech/openai-anthropic-google-price-wars-where-no-one-is-making-money/"
+    }
+  ],
+  "local": [
+    {
+      "tag": "工具链",
+      "time": "08-27",
+      "title": "Ollama v0.33.2：模型调度系统大改",
+      "desc": "显著减少显存溢出崩溃并最大化 GPU 利用；修复深色模式与 macOS 实例交接，主打编码 Agent 集成。",
+      "src": "Ollama GitHub Releases",
+      "href": "https://github.com/ollama/ollama/releases"
+    },
+    {
+      "tag": "新模型",
+      "time": "08-03 发布",
+      "title": "Qwen3.8 开放权重：旗舰 2.4T+ 参数",
+      "desc": "阿里 8 月发布 Qwen3.8 家族并承诺开放权重；27B 搭 DeepSeek 推理框架被社区称为「当前最强开源 AI 栈」。",
+      "src": "YottaLabs",
+      "href": "https://www.yottalabs.ai/post/best-open-source-llms-2026"
+    },
+    {
+      "tag": "推理模型",
+      "time": "09 月",
+      "title": "DeepSeek V4-Flash：本地可跑但门槛不低",
+      "desc": "开放权重 MoE（稀疏注意力 + 逐 token 压缩，MIT）；本地部署最低门槛约 3650 美元主机；0731 快照有偶发超长输出问题。",
+      "src": "ModelFit / Hacker News",
+      "href": "https://modelfit.io/blog/"
+    },
+    {
+      "tag": "社区共识",
+      "time": "09 月",
+      "title": "r/LocalLLaMA：本地模型「从没用到大有用」",
+      "desc": "社区热议一年内本地模型实用性质变；DeepSeek R1 Distill 仍被视为本地推理强选。",
+      "src": "Reddit r/LocalLLaMA",
+      "href": "https://www.reddit.com/r/LocalLLaMA/comments/1u85t9c/local_models_went_from_mostly_useless_to_actually/"
+    },
+    {
+      "tag": "开放权重",
+      "time": "09 月",
+      "title": "Kimi K3 编码 Elo 1600：开放权重标杆",
+      "desc": "最新榜单快照显示 Kimi K3 编码 Elo 达 1600，高于自身综合榜排名（第 7），领跑开放权重编码赛道。",
+      "src": "swfte 榜单",
+      "href": "https://www.swfte.com/lmsys-leaderboard"
+    }
+  ],
+  "board": [
+    { "rank": 1, "name": "Claude Opus 4.8", "org": "Anthropic", "elo": 1580, "note": "综合榜第一" },
+    { "rank": 3, "name": "GPT-5.5 Pro", "org": "OpenAI", "elo": 1551, "note": "综合第 3 · Pro 版冲高" },
+    { "rank": 4, "name": "Gemini 3.1 Pro", "org": "Google DeepMind", "elo": 1538, "note": "综合第 4 · 多模态强势" },
+    { "rank": 5, "name": "GPT-5.5", "org": "OpenAI", "elo": 1523, "note": "综合第 5" },
+    { "rank": 7, "name": "Kimi K3", "org": "月之暗面", "elo": 1516, "note": "综合第 7 · 编码 Elo 1600" },
+    { "rank": 9, "name": "DeepSeek V4 Pro", "org": "深度求索", "elo": 1462, "note": "综合第 9 · 开源阵营领头" }
+  ],
+  "news": [
+    {
+      "tag": "融资",
+      "time": "09 月",
+      "title": "OpenAI 完成 1100 亿美元新融资，投前估值 7300 亿",
+      "desc": "投资方包括软银（300 亿美元）、英伟达（300 亿美元）与亚马逊（500 亿美元）。",
+      "src": "OpenAI 官网",
+      "href": "https://openai.com/zh-Hans-CN/index/scaling-ai-for-everyone/"
+    },
+    {
+      "tag": "资本",
+      "time": "09-14",
+      "title": "软银获 118.7 亿美元贷款加码 OpenAI",
+      "desc": "软银获 118.7 亿美元贷款支持对 OpenAI 的投资，金额高于此前预期。",
+      "src": "新浪人工智能热点小时报",
+      "href": "https://k.sina.com.cn/article_7857201856_1d45362c001908nbsa.html"
+    },
+    {
+      "tag": "IPO",
+      "time": "09 月",
+      "title": "Anthropic H 轮融资完成，投后估值直逼万亿美元",
+      "desc": "自 4 月下旬收到多份主动融资提案后火速启动并完成谈判，IPO 预期持续升温。",
+      "src": "中国基金报",
+      "href": "https://www.chnfund.com/article/AR35de701e-eea1-2729-635c-3a2189dc34eb"
+    },
+    {
+      "tag": "创投",
+      "time": "09 月",
+      "title": "费莫一科技完成近亿美元种子轮，IDG 领投",
+      "desc": "成立于 2026 年 3 月的深圳 AI 公司获近亿美元种子轮；8 月中国 AI 融资 351.59 亿元，同比翻四倍。",
+      "src": "科创板日报",
+      "href": "https://www.chinastarmarket.cn/detail/2478671"
+    },
+    {
+      "tag": "具身智能",
+      "time": "09 月",
+      "title": "「加速进化」两月内完成两轮融资",
+      "desc": "获首程控股领投的超亿元 A+ 轮；具身智能与世界模型成大额融资密集方向。",
+      "src": "钛媒体",
+      "href": "https://www.tmtpost.com/7636951.html"
+    }
+  ],
+  "status": [
+    {
+      "tag": "可用性",
+      "time": "探测于 09-16 07:55",
+      "title": "lingshu.baige.net.cn 正常运行",
+      "ok": true,
+      "desc": "HTTP 200 · TLS 有效 · 响应约 0.17s · 服务器 nginx · 「灵枢 Lingshu」React SPA 加载正常。",
+      "src": "lingshu.baige.net.cn",
+      "href": "https://lingshu.baige.net.cn"
+    }
+  ]
+}
