@@ -15,6 +15,12 @@ const DAILY = {
     { tag: "行业标准", time: "09 月", title: "OpenAI、Anthropic、Google 密谈组建 AI 安全标准机构",
       desc: "The Information 报道，三大巨头就共建 AI 行业安全标准机构进行幕后讨论，拟对先进模型发布前测试等设立共同规范，与百余家公司此前的「失控 AI」联名声援形成呼应。",
       src: "The Information", href: "https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police" },
+    { tag: "公益 AI", time: "09-15", title: "盖茨基金会宣布投入 10 亿美元推动 AI",
+      desc: "西雅图消息：盖茨基金会宣布计划未来两年至少投入 10 亿美元，推动人工智能及基于 AI 的解决方案发展，聚焦全球健康与公共卫生领域。",
+      src: "新浪科技", href: "https://k.sina.com.cn/article_7857201856_1d45362c001908nh1g.html" },
+    { tag: "政策立法", time: "09-11", title: "加州一周连签多部 AI 法案",
+      desc: "加州州长纽森本周密集签署 AI 相关法案，涵盖儿童在线保护、IVO 框架等；美国教育部同步将 AI 整合列为资助优先事项，FIPSE 高等教育 AI 专项达 1.69 亿美元。",
+      src: "Transparency Coalition", href: "https://www.transparencycoalition.ai/news/ai-legislative-update-september11-2026" },
     { tag: "巨头动向", time: "09-16", title: "美科技巨头呼吁 AI「降速」，盘算不止于安全",
       desc: "新浪 AI 热点小时报：美国科技巨头呼吁 AI 降速引发热议，安全之外另有商业与监管考量；同期「人工智能向善普惠」成共识，中外人士建言缩小数字鸿沟。",
       src: "新浪 AI 热点小时报", href: "https://k.sina.com.cn/article_7857201856_1d45362c001908nj3o.html" },
@@ -41,13 +47,12 @@ const DAILY = {
     { tag: "开放权重", time: "09 月", title: "Kimi K3 编码 Elo 1600：开放权重标杆",
       desc: "最新榜单快照显示，月之暗面开放权重的 Kimi K3 编码 Elo 达 1600，超过自身综合榜排名（第 7），继续领跑开放权重阵营的编码赛道。",
       src: "swfte 榜单", href: "https://www.swfte.com/lmsys-leaderboard" },
-  ],
-  board: [
-    { rank: 1, name: "Claude Fable 5.1", org: "Anthropic", score: 53, note: "并列第一 · Adaptive Reasoning / Max Effort" },
-    { rank: 2, name: "GPT-6 Astra", org: "OpenAI", score: 53, note: "并列第一 · max / xhigh 档同分" },
-    { rank: 3, name: "GLM-5.3 (max)", org: "智谱 Z.ai", score: 45, note: "开放权重第一" },
-    { rank: 4, name: "Kimi K3 (max)", org: "月之暗面", score: 44, note: "开放权重第二" },
-    { rank: 5, name: "GLM-5.3-Flash", org: "智谱 Z.ai", score: 42, note: "轻量开放权重" },
+    { tag: "开放权重", time: "09-16", title: "AA 全榜：开放权重模型占近半壁江山",
+      desc: "Artificial Analysis 全榜 302 款已评分模型中，开放权重阵营占据约半数；GLM-5.3 (max) 以 45 分领跑开放权重，Kimi K3 (max) 44 分、GLM-5.3-Flash 42 分紧随其后，智谱独占前二。",
+      src: "Artificial Analysis", href: "https://artificialanalysis.ai/leaderboards/models" },
+    { tag: "工具链", time: "09 月", title: "Ollama、Unsloth、vLLM 三强格局成型",
+      desc: "Thunder Compute 九月报告：运行、微调与服务开放权重模型的工具链已收敛为 Ollama、Unsloth、vLLM 三强，分别覆盖本地消费级、低成本训练与生产级推理场景。",
+      src: "Thunder Compute", href: "https://www.thundercompute.com/blog/best-open-source-llms" },
   ],
   news: [
     { tag: "融资", time: "09 月", title: "OpenAI 完成 1100 亿美元新融资，投前估值 7300 亿",
@@ -65,6 +70,9 @@ const DAILY = {
     { tag: "具身智能", time: "09 月", title: "「加速进化」两月内完成两轮融资",
       desc: "具身智能公司「加速进化」获首程控股领投的超亿元 A+ 轮融资；投资界 AI 周报显示，具身智能与世界模型正成为大额融资密集方向。",
       src: "钛媒体", href: "https://www.tmtpost.com/7636951.html" },
+    { tag: "治理", time: "08-02", title: "欧盟 AI 法案进入全面执法阶段",
+      desc: "欧盟委员会 AI 办公室联合成员国主管机构自 8 月 2 日起全面执行《AI 法案》，为全球首个综合性 AI 监管框架落地；美国同期已有逾 2000 项 AI 监管提案在途。",
+      src: "European Commission", href: "https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence" },
   ],
   status: [
     { tag: "可用性", time: "探测于 09-16 07:55", title: "lingshu.baige.net.cn 正常运行", ok: true,
@@ -104,14 +112,16 @@ function render() {
     </article>`;
   }).join("");
 
-  const maxScore = DAILY.board[0].score, minScore = Math.min(...DAILY.board.map((b) => b.score)) - 30;
-  $("#board-list").innerHTML = DAILY.board.map((b) => `
+  const maxScore = window.AA_BOARD ? window.AA_BOARD[0].s : 53;
+  const rows = window.AA_BOARD || [];
+  $("#board-list").innerHTML = rows.map((b) => `
     <li class="board-item">
-      <span class="rank">${b.rank}</span>
-      <span class="b-name">${esc(b.name)}<small>${esc(b.org)} · ${esc(b.note)}</small></span>
-      <span class="b-bar"><span class="b-fill" data-w="${((b.score - minScore) / (maxScore - minScore) * 100).toFixed(1)}"></span></span>
-      <span class="b-score">指数 ${b.score}</span>
+      <span class="rank">${b.r}</span>
+      <span class="b-name">${esc(b.n)}<small>${esc(b.o)}</small></span>
+      <span class="b-bar"><span class="b-fill" data-w="${(b.s / maxScore * 100).toFixed(1)}"></span></span>
+      <span class="b-score">${b.st ? "*" : ""}${b.s % 1 === 0 ? b.s : b.s.toFixed(1)}</span>
     </li>`).join("");
+  $("#board-total").textContent = rows.length;
 
   $("#hero-date").textContent = DAILY.dateLabel;
   $("#stat-count").textContent = DAILY.events.length + DAILY.local.length + DAILY.news.length + DAILY.status.length;
@@ -133,7 +143,7 @@ function bindFilters() {
         const id = "#" + s.id;
         const matched = f === "all" || Object.entries(map).some(([k, v]) => k === f && v === id);
         const hasVisible = [...s.querySelectorAll(".card")].some((c) => c.style.display !== "none");
-        s.style.display = f === "all" ? "" : (matched && hasVisible ? "" : "none");
+        s.style.display = f === "all" || (matched && (hasVisible || !s.querySelector(".card"))) ? "" : "none";
       });
     });
   });
@@ -147,7 +157,7 @@ function bindReveal() {
       en.target.classList.add("in");
       if (en.target.classList.contains("board")) {
         en.target.querySelectorAll(".b-fill").forEach((f, i) => {
-          setTimeout(() => { f.style.width = f.dataset.w + "%"; }, 150 + i * 90);
+          setTimeout(() => { f.style.width = f.dataset.w + "%"; }, 200 + (i % 8) * 60); // 302 行若逐行延迟会等到天荒地老
         });
       }
       io.unobserve(en.target);

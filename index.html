@@ -96,13 +96,16 @@
     <section id="board" class="section">
       <div class="sec-head reveal">
         <h2>🏆 AI 模型排行榜</h2>
-        <p class="sec-sub">Artificial Analysis · Intelligence Index v4.3 · 收录 160 个模型</p>
+        <p class="sec-sub">Artificial Analysis · Intelligence Index v4.3 · 全榜 <span id="board-total">—</span> 款模型</p>
       </div>
       <div class="board glass reveal">
-        <ol class="board-list" id="board-list"></ol>
-        <p class="board-note">智能指数由 10 项评测（AA-Briefcase、GDPval-AA v2、AutomationBench-AA 等）合成，满分 100；Claude Fable 5.1 与 GPT-6 Astra 以 53 分并列榜首，开放权重阵营由 GLM-5.3 领跑。
+        <div class="board-head"><span>#</span><span>模型</span><span>智能指数对比</span><span>指数</span></div>
+        <div class="board-scroll">
+          <ol class="board-list compact" id="board-list"></ol>
+        </div>
+        <p class="board-note">智能指数由 10 项评测（AA-Briefcase、GDPval-AA v2、AutomationBench-AA 等）合成，满分 100；带 * 为初步评估分数；Gemini 3 Deep Think、GPT-5.5 Pro (xhigh) 等暂未收录评分。面板固定高度，滚轮查看全部名次。
           数据来源：<a href="https://artificialanalysis.ai/leaderboards/models" target="_blank" rel="noopener">Artificial Analysis 榜单</a> ·
-          <a href="https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index" target="_blank" rel="noopener">指数方法论 v4.3</a></p>
+          <a href="https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index" target="_blank" rel="noopener">指数方法论 v4.3</a> · 更新于 2026-09-16</p>
       </div>
     </section>
 
@@ -130,6 +133,7 @@
     <p><a href="./feed.xml">📡 RSS 订阅</a> · <a href="https://github.com/gitciu8080/EveryDaysNewForAI" target="_blank" rel="noopener">GitHub</a> · 部署于 Cloudflare Pages</p>
   </footer>
 
+  <script src="./assets/js/board-data.js"></script>
   <script src="./assets/js/main.js"></script>
 </body>
 </html>

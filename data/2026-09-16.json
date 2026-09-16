@@ -86,13 +86,27 @@
       "href": "https://www.swfte.com/lmsys-leaderboard"
     }
   ],
-  "board": [
-    { "rank": 1, "name": "Claude Fable 5.1", "org": "Anthropic", "score": 53, "note": "并列第一 · Adaptive Reasoning / Max Effort" },
-    { "rank": 2, "name": "GPT-6 Astra", "org": "OpenAI", "score": 53, "note": "并列第一 · max / xhigh 档同分" },
-    { "rank": 3, "name": "GLM-5.3 (max)", "org": "智谱 Z.ai", "score": 45, "note": "开放权重第一" },
-    { "rank": 4, "name": "Kimi K3 (max)", "org": "月之暗面", "score": 44, "note": "开放权重第二" },
-    { "rank": 5, "name": "GLM-5.3-Flash", "org": "智谱 Z.ai", "score": 42, "note": "轻量开放权重" }
-  ],
+  "boardMeta": {
+    "source": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/leaderboards/models",
+    "methodology": "Intelligence Index v4.3（满分 100）",
+    "updated": "2026-09-16",
+    "total": 302,
+    "unscored": ["Gemini 3 Deep Think", "GPT-5.5 Pro (xhigh)", "EXAONE 4.5 33B (Non-reasoning)", "Cogito v2.1"],
+    "top10": [
+      { "rank": 1, "name": "Claude Fable 5.1 (max with fallback)", "org": "Anthropic", "score": 53 },
+      { "rank": 2, "name": "Claude Fable 5.1 (xhigh with fallback)", "org": "Anthropic", "score": 53 },
+      { "rank": 3, "name": "GPT-6 Astra (max)", "org": "OpenAI", "score": 53 },
+      { "rank": 4, "name": "GPT-6 Astra (xhigh)", "org": "OpenAI", "score": 53 },
+      { "rank": 5, "name": "Claude Fable 5.1 (high with fallback)", "org": "Anthropic", "score": 51 },
+      { "rank": 6, "name": "GPT-6 Astra (high)", "org": "OpenAI", "score": 51 },
+      { "rank": 7, "name": "Claude Opus 5 (max)", "org": "Anthropic", "score": 51 },
+      { "rank": 8, "name": "Claude Fable 5 (with fallback)", "org": "Anthropic", "score": 50 },
+      { "rank": 9, "name": "GPT-6 Astra (medium)", "org": "OpenAI", "score": 50 },
+      { "rank": 10, "name": "Claude Opus 5 (xhigh)", "org": "Anthropic", "score": 50 }
+    ],
+    "note": "全榜 302 条数据见 assets/js/board-data.js（每日随晨报更新）"
+  },
   "news": [
     {
       "tag": "融资",
