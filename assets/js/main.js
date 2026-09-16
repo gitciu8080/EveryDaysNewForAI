@@ -43,12 +43,11 @@ const DAILY = {
       src: "swfte 榜单", href: "https://www.swfte.com/lmsys-leaderboard" },
   ],
   board: [
-    { rank: 1, name: "Claude Opus 4.8", org: "Anthropic", elo: 1580, note: "综合榜第一" },
-    { rank: 3, name: "GPT-5.5 Pro", org: "OpenAI", elo: 1551, note: "综合第 3 · Pro 版冲高" },
-    { rank: 4, name: "Gemini 3.1 Pro", org: "Google DeepMind", elo: 1538, note: "综合第 4 · 多模态强势" },
-    { rank: 5, name: "GPT-5.5", org: "OpenAI", elo: 1523, note: "综合第 5" },
-    { rank: 7, name: "Kimi K3", org: "月之暗面", elo: 1516, note: "综合第 7 · 编码 Elo 1600" },
-    { rank: 9, name: "DeepSeek V4 Pro", org: "深度求索", elo: 1462, note: "综合第 9 · 开源阵营领头" },
+    { rank: 1, name: "Claude Fable 5.1", org: "Anthropic", score: 53, note: "并列第一 · Adaptive Reasoning / Max Effort" },
+    { rank: 2, name: "GPT-6 Astra", org: "OpenAI", score: 53, note: "并列第一 · max / xhigh 档同分" },
+    { rank: 3, name: "GLM-5.3 (max)", org: "智谱 Z.ai", score: 45, note: "开放权重第一" },
+    { rank: 4, name: "Kimi K3 (max)", org: "月之暗面", score: 44, note: "开放权重第二" },
+    { rank: 5, name: "GLM-5.3-Flash", org: "智谱 Z.ai", score: 42, note: "轻量开放权重" },
   ],
   news: [
     { tag: "融资", time: "09 月", title: "OpenAI 完成 1100 亿美元新融资，投前估值 7300 亿",
@@ -105,13 +104,13 @@ function render() {
     </article>`;
   }).join("");
 
-  const maxElo = DAILY.board[0].elo, minElo = Math.min(...DAILY.board.map((b) => b.elo)) - 30;
+  const maxScore = DAILY.board[0].score, minScore = Math.min(...DAILY.board.map((b) => b.score)) - 30;
   $("#board-list").innerHTML = DAILY.board.map((b) => `
     <li class="board-item">
       <span class="rank">${b.rank}</span>
       <span class="b-name">${esc(b.name)}<small>${esc(b.org)} · ${esc(b.note)}</small></span>
-      <span class="b-bar"><span class="b-fill" data-w="${((b.elo - minElo) / (maxElo - minElo) * 100).toFixed(1)}"></span></span>
-      <span class="b-elo">Elo ${b.elo}</span>
+      <span class="b-bar"><span class="b-fill" data-w="${((b.score - minScore) / (maxScore - minScore) * 100).toFixed(1)}"></span></span>
+      <span class="b-score">指数 ${b.score}</span>
     </li>`).join("");
 
   $("#hero-date").textContent = DAILY.dateLabel;
