@@ -5,10 +5,66 @@
     <link>https://everydaysnewforai.pages.dev/</link>
     <description>每日 AI 情报站：AI 大事、本地模型动态、模型排行榜与新闻速览。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:37:00 +0800</lastBuildDate>
     <atom:link href="https://everydaysnewforai.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
     <generator>AI晨报 handcrafted feed</generator>
 
+    <item>
+      <title>OpenAI 披露 6 起「意外或令人担忧的模型行为」，首发失准报告框架</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework</link>
+      <guid isPermaLink="false">ai-morning-20260920-1</guid>
+      <pubDate>Wed, 16 Sep 2026 09:00:00 +0800</pubDate>
+      <description>OpenAI 公布过去半年观察到的 6 起模型意外或令人担忧行为报告，并推出跟踪、调查与披露模型失准（misalignment）的新框架：任何员工均可提报，各步骤设截止期限以保证及时调查与公开。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>Musk 系公司撤掉对 Apple 的反垄断指控，继续起诉 OpenAI</title>
+      <link>https://www.pymnts.com/legal/antitrust/2026/musk-firms-drop-apple-antitrust-suit-but-continue-case-against-openai</link>
+      <guid isPermaLink="false">ai-morning-20260920-2</guid>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 +0800</pubDate>
+      <description>xAI 与 X（SpaceXAI）09-14 请求撤销对 Apple 的指控（原指控 Apple 与 OpenAI 合谋挤压聊天机器人对手），但对 OpenAI 的垄断指控继续；法官 Mark Pittman 责令提交任何与 Apple 相关的和解协议。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>特朗普：「谁赢 AI 谁赢」，拒绝业界放缓 AI 开发的呼吁</title>
+      <link>https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos</link>
+      <guid isPermaLink="false">ai-morning-20260920-3</guid>
+      <pubDate>Sun, 13 Sep 2026 09:00:00 +0800</pubDate>
+      <description>特朗普在爱尔兰出席高尔夫赛事期间表示担心把美国对中国的领先拱手让人；同周 Altman 称出于安全考虑将 OpenAI IPO 推迟到至少 2027 年。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>Arcee AI 完成 1.5 亿美元 B 轮，估值破 10 亿美元，押注开放权重 Trinity</title>
+      <link>https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal</link>
+      <guid isPermaLink="false">ai-morning-20260920-4</guid>
+      <pubDate>Thu, 18 Sep 2026 09:00:00 +0800</pubDate>
+      <description>开放权重模型开发商 Arcee AI 以超 10 亿美元估值完成 1.5 亿美元 B 轮融资，位列当周美国十大交易；Trinity 开放权重家族已在 AA 榜单，旗舰 Trinity 400B 拟以 Apache 2.0 发布。</description>
+      <category>本地模型</category>
+    </item>
+    <item>
+      <title>Artificial Analysis 全榜（268 款已评分）：Claude Fable 5.1 与 GPT-6 Astra 并列 53 分榜首</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">ai-morning-20260920-5</guid>
+      <pubDate>Sun, 20 Sep 2026 06:37:00 +0800</pubDate>
+      <description>今日抓取全榜共 268 款已评分模型（另 4 款未评分）；前三均为 53 分（Fable 5.1 max/xhigh、GPT-6 Astra max），GPT-6 Astra (xhigh) 由 53 分降至 52 分；开放权重阵营 GLM-5.3 (max) 45 分、Kimi K3 (max) 44 分居前列。</description>
+      <category>排行榜</category>
+    </item>
+    <item>
+      <title>Temporal 完成 5.5 亿美元 E 轮，估值 125.5 亿美元，AI 基建领跑当周</title>
+      <link>https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal</link>
+      <guid isPermaLink="false">ai-morning-20260920-6</guid>
+      <pubDate>Thu, 18 Sep 2026 09:00:00 +0800</pubDate>
+      <description>长时程 AI 智能体开源平台开发商 Temporal 获 5.5 亿美元 E 轮融资、估值 125.5 亿美元，居当周美国十大交易之首；同周 Crusoe 官宣 30 亿美元+ 数据中心巨轮。</description>
+      <category>新闻速览</category>
+    </item>
+    <item>
+      <title>英伟达 Q2 数据中心营收 890 亿美元，同比 +117%</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/donald-trump-rejects-calls-ai-040909311.html</link>
+      <guid isPermaLink="false">ai-morning-20260920-7</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 +0800</pubDate>
+      <description>英伟达二季度数据中心营收 890 亿美元、同比增长 117%；Q2 共 285 家对冲基金做多英伟达（Q1 为 275 家）。</description>
+      <category>新闻速览</category>
+    </item>
     <item>
       <title>《人工智能安全治理框架 3.0》落地：首次对 AI 智能体提出单独安全要求</title>
       <link>https://sputniknews.cn/20260918/1073307228.html</link>
@@ -18,68 +74,12 @@
       <category>AI大事</category>
     </item>
     <item>
-      <title>GPT-6 Astra 发布：通用智能指数 61 分，与 GPT-5.6 Sol 持平</title>
-      <link>https://ofox.ai/blog/best-ai-models-complete-guide-2026</link>
-      <guid isPermaLink="false">ai-morning-20260919-2</guid>
-      <pubDate>Wed, 03 Sep 2026 09:00:00 +0800</pubDate>
-      <description>OpenAI 9 月 3 日发布 GPT-6 Astra，定价 $10/$50 每百万 token，面向 Agent 工作负载；AA 综合指数 61 分，落后 Claude Fable 5.1 的 66 分；ARC-AGI-3 Standard 基准 62.7%。</description>
-      <category>AI大事</category>
-    </item>
-    <item>
-      <title>Qwen3.8-27B 被评 2026 本地 LLM 首选</title>
-      <link>https://www.promptquorum.com/local-llms/best-local-llms-2026</link>
-      <guid isPermaLink="false">ai-morning-20260919-3</guid>
-      <pubDate>Sat, 19 Sep 2026 10:00:00 +0800</pubDate>
-      <description>Q4_K_M 量化约 24GB 内存即可运行；GPQA Diamond 89.2%、SWE-bench Pro 61.7%；原生视觉-语言，262K 上下文可扩展至 1M，成为本地部署默认选择。</description>
-      <category>本地模型</category>
-    </item>
-    <item>
-      <title>Artificial Analysis 全榜（268 款已评分）：Claude Fable 5.1 与 GPT-6 Astra 并列 53 分榜首</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">ai-morning-20260919-4</guid>
-      <pubDate>Sat, 19 Sep 2026 10:00:00 +0800</pubDate>
-      <description>今日抓取全榜共 268 款已评分模型（另 4 款未评分）；榜首 Claude Fable 5.1 (max) 53 分，开放权重阵营 GLM-5.3 (max) 45 分、Kimi K3 (max) 44 分、GLM-5.3-Flash 42 分居前列。</description>
-      <category>排行榜</category>
-    </item>
-    <item>
-      <title>Positron AI 完成 8.75 亿美元 C 轮，估值 50 亿美元</title>
-      <link>https://www.ignita.ai/insights/biggest-us-funding-rounds-week-ending-2026-09-11</link>
-      <guid isPermaLink="false">ai-morning-20260919-5</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0800</pubDate>
-      <description>NEA、Atreides 等领投，卡塔尔投资局、Cisco 投资部与 Naver Ventures 跟投；自研内存优先推理处理器，单芯片最高 2.3TB 内存，已在 Oracle Cloud 部署 50 余架机架。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
-      <title>Cognition AI 融资 20 亿美元，估值 480 亿美元</title>
-      <link>https://www.ignita.ai/insights/biggest-us-funding-rounds-week-ending-2026-09-11</link>
-      <guid isPermaLink="false">ai-morning-20260919-6</guid>
-      <pubDate>Thu, 11 Sep 2026 09:00:00 +0800</pubDate>
-      <description>截至 9 月 11 日当周，美国披露融资总额约 93 亿美元、16 轮以上，为 2026 年前沿 AI 巨轮之外的单周最高水平。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
-      <title>AI Score 获 460 万欧元种子轮，加码企业 AI 治理</title>
-      <link>https://n24.com.tr/technology/ai-score-secures-46-million-seed-funding-for-ai-governance-539</link>
-      <guid isPermaLink="false">ai-morning-20260919-7</guid>
-      <pubDate>Sun, 06 Sep 2026 09:00:00 +0800</pubDate>
-      <description>英国初创 AI Score 完成由 Fuel Ventures 领投的 460 万欧元种子轮，扩展企业 AI 治理平台，「AI 治理」赛道融资热度延续。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
       <title>OpenAI 完成 1100 亿美元新融资，投前估值 7300 亿美元</title>
       <link>https://openai.com/zh-Hans-CN/index/scaling-ai-for-everyone/</link>
       <guid isPermaLink="false">ai-morning-20260916-7</guid>
       <pubDate>Wed, 16 Sep 2026 08:00:00 +0800</pubDate>
       <description>投资方包括软银（300 亿美元）、英伟达（300 亿美元）与亚马逊（500 亿美元）；软银另获 118.7 亿美元贷款支持对 OpenAI 的投资。</description>
       <category>新闻速览</category>
-    </item>
-    <item>
-      <title>Sam Altman：OpenAI 2026 年不会上市</title>
-      <link>https://aiweekly.co/ai-news-today/edition/2026-09-15</link>
-      <guid isPermaLink="false">ai-morning-20260915-5</guid>
-      <pubDate>Tue, 15 Sep 2026 08:00:00 +0800</pubDate>
-      <description>Altman 称出于安全考虑此时进行 IPO「不明智」，OpenAI 今年不寻求上市。</description>
-      <category>公司动态</category>
     </item>
   </channel>
 </rss>
