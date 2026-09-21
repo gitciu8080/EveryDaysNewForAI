@@ -5,10 +5,74 @@
     <link>https://everydaysnewforai.pages.dev/</link>
     <description>每日 AI 情报站：AI 大事、本地模型动态、模型排行榜与新闻速览。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 06:37:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:49:00 +0800</lastBuildDate>
     <atom:link href="https://everydaysnewforai.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
     <generator>AI晨报 handcrafted feed</generator>
 
+    <item>
+      <title>Anthropic、OpenAI、SpaceX、谷歌四大巨头被诉：被指达成「放缓 AI 开发」非法协议</title>
+      <link>http://finance.sina.com.cn/wm/2026-09-20/doc-inismzux1615891.shtml</link>
+      <guid isPermaLink="false">ai-morning-20260921-1</guid>
+      <pubDate>Sat, 20 Sep 2026 09:00:00 +0800</pubDate>
+      <description>四名 ChatGPT、Claude、Grok、Gemini 付费订阅用户提起诉讼，指控四家公司达成非法协议、协调减缓 AI 开发速度，违反反垄断法；四家公司高管近期均就 AI 风险公开发过言。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>特朗普：将组建「人工智能部队」，任命 AI 事务「总管」，称 AI 或占美国 GDP 25%</title>
+      <link>http://finance.sina.com.cn/stock/zqgd/2026-09-20/doc-inisnhax2511078.shtml</link>
+      <guid isPermaLink="false">ai-morning-20260921-2</guid>
+      <pubDate>Fri, 19 Sep 2026 09:00:00 +0800</pubDate>
+      <description>特朗普 19 日发文称将组建「人工智能部队」并任命 AI 事务「总管」，称 AI 代表下一场工业革命或互联网浪潮，可能占到美国 GDP 的 25%。</description>
+      <category>AI大事</category>
+    </item>
+    <item>
+      <title>沐曦完成 Qwen-Image-2.1 模型适配，国产 GPU 接入开源图像生成</title>
+      <link>https://www.tmtpost.com/newsflash</link>
+      <guid isPermaLink="false">ai-morning-20260921-3</guid>
+      <pubDate>Sat, 20 Sep 2026 09:00:00 +0800</pubDate>
+      <description>沐曦股份完成对 Qwen-Image-2.1 模型的适配，开源图像生成模型落地国产 GPU 平台。</description>
+      <category>本地模型</category>
+    </item>
+    <item>
+      <title>Artificial Analysis 全榜（268 款已评分）：Claude Fable 5.1 与 GPT-6 Astra 并列 53 分榜首</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">ai-morning-20260921-4</guid>
+      <pubDate>Mon, 21 Sep 2026 06:49:00 +0800</pubDate>
+      <description>今日抓取全榜共 268 款已评分模型（另 4 款未评分）；前三均为 53 分（Fable 5.1 max/xhigh、GPT-6 Astra max），GPT-6 Astra (xhigh) 维持 52 分；163 款为初步分。注：live 站点在本环境 TLS 封锁，数据取自 09-19 22:56 UTC 的 Wayback 快照。</description>
+      <category>排行榜</category>
+    </item>
+    <item>
+      <title>保诚 × 阿里云推出「AI 核保师」：数分钟内给出初步核保指引</title>
+      <link>http://finance.sina.com.cn/wm/2026-09-20/doc-inisnhay9285996.shtml</link>
+      <guid isPermaLink="false">ai-morning-20260921-5</guid>
+      <pubDate>Sat, 20 Sep 2026 09:00:00 +0800</pubDate>
+      <description>保诚与阿里云共同研发的 AI 核保方案正式推出，协助理财顾问在数分钟内获取初步核保指引。</description>
+      <category>新闻速览</category>
+    </item>
+    <item>
+      <title>AI 猎头魔幻一年：单笔佣金 300 万，具身智能算法专家年薪总包 1050 万</title>
+      <link>http://finance.sina.com.cn/money/fund/jjzl/2026-09-20/doc-inisnhay9268594.shtml</link>
+      <guid isPermaLink="false">ai-morning-20260921-6</guid>
+      <pubDate>Sat, 20 Sep 2026 09:00:00 +0800</pubDate>
+      <description>某具身智能公司招聘 AI 算法专家，年薪总包 1050 万元、猎头费 26%（约 273 万元）；科锐国际披露 AI 岗位需求占公司猎头业务收入 50% 以上。</description>
+      <category>新闻速览</category>
+    </item>
+    <item>
+      <title>启元机器人 Q1/T1 发布：88cm 可折叠个人机器人，接入腾讯云 WorkBuddy</title>
+      <link>http://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnhav1515214.shtml</link>
+      <guid isPermaLink="false">ai-morning-20260921-7</guid>
+      <pubDate>Sat, 20 Sep 2026 09:00:00 +0800</pubDate>
+      <description>启元机器人发布 Q1（88cm、可折叠）与 T1（轮足人形/四足切换），与腾讯云合作接入 WorkBuddy，8 月 23 日开启预订。</description>
+      <category>新闻速览</category>
+    </item>
+    <item>
+      <title>站点监测：lingshu 主站 / EasyTier 隧道 / TVHeadend 143 / TVHeadend 156 全部正常</title>
+      <link>https://lingshu.baige.net.cn</link>
+      <guid isPermaLink="false">ai-morning-20260921-8</guid>
+      <pubDate>Mon, 21 Sep 2026 06:49:00 +0800</pubDate>
+      <description>09-21 06:49 探测：lingshu HTTP 200（2.29s）；EasyTier 隧道经 156 EPG 端到端可达（全量 3704 条）；TVHeadend 143（3034 条）与 156（3704 条）EPG 均正常。</description>
+      <category>站点监测</category>
+    </item>
     <item>
       <title>OpenAI 披露 6 起「意外或令人担忧的模型行为」，首发失准报告框架</title>
       <link>https://openai.com/index/model-misalignment-reporting-framework</link>
@@ -18,68 +82,12 @@
       <category>AI大事</category>
     </item>
     <item>
-      <title>Musk 系公司撤掉对 Apple 的反垄断指控，继续起诉 OpenAI</title>
-      <link>https://www.pymnts.com/legal/antitrust/2026/musk-firms-drop-apple-antitrust-suit-but-continue-case-against-openai</link>
-      <guid isPermaLink="false">ai-morning-20260920-2</guid>
-      <pubDate>Mon, 14 Sep 2026 09:00:00 +0800</pubDate>
-      <description>xAI 与 X（SpaceXAI）09-14 请求撤销对 Apple 的指控（原指控 Apple 与 OpenAI 合谋挤压聊天机器人对手），但对 OpenAI 的垄断指控继续；法官 Mark Pittman 责令提交任何与 Apple 相关的和解协议。</description>
-      <category>AI大事</category>
-    </item>
-    <item>
-      <title>特朗普：「谁赢 AI 谁赢」，拒绝业界放缓 AI 开发的呼吁</title>
-      <link>https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos</link>
-      <guid isPermaLink="false">ai-morning-20260920-3</guid>
-      <pubDate>Sun, 13 Sep 2026 09:00:00 +0800</pubDate>
-      <description>特朗普在爱尔兰出席高尔夫赛事期间表示担心把美国对中国的领先拱手让人；同周 Altman 称出于安全考虑将 OpenAI IPO 推迟到至少 2027 年。</description>
-      <category>AI大事</category>
-    </item>
-    <item>
-      <title>Arcee AI 完成 1.5 亿美元 B 轮，估值破 10 亿美元，押注开放权重 Trinity</title>
-      <link>https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal</link>
-      <guid isPermaLink="false">ai-morning-20260920-4</guid>
-      <pubDate>Thu, 18 Sep 2026 09:00:00 +0800</pubDate>
-      <description>开放权重模型开发商 Arcee AI 以超 10 亿美元估值完成 1.5 亿美元 B 轮融资，位列当周美国十大交易；Trinity 开放权重家族已在 AA 榜单，旗舰 Trinity 400B 拟以 Apache 2.0 发布。</description>
-      <category>本地模型</category>
-    </item>
-    <item>
       <title>Artificial Analysis 全榜（268 款已评分）：Claude Fable 5.1 与 GPT-6 Astra 并列 53 分榜首</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">ai-morning-20260920-5</guid>
       <pubDate>Sun, 20 Sep 2026 06:37:00 +0800</pubDate>
-      <description>今日抓取全榜共 268 款已评分模型（另 4 款未评分）；前三均为 53 分（Fable 5.1 max/xhigh、GPT-6 Astra max），GPT-6 Astra (xhigh) 由 53 分降至 52 分；开放权重阵营 GLM-5.3 (max) 45 分、Kimi K3 (max) 44 分居前列。</description>
+      <description>09-20 抓取全榜共 268 款已评分模型（另 4 款未评分）；前三均为 53 分（Fable 5.1 max/xhigh、GPT-6 Astra max），GPT-6 Astra (xhigh) 由 53 分降至 52 分。</description>
       <category>排行榜</category>
-    </item>
-    <item>
-      <title>Temporal 完成 5.5 亿美元 E 轮，估值 125.5 亿美元，AI 基建领跑当周</title>
-      <link>https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal</link>
-      <guid isPermaLink="false">ai-morning-20260920-6</guid>
-      <pubDate>Thu, 18 Sep 2026 09:00:00 +0800</pubDate>
-      <description>长时程 AI 智能体开源平台开发商 Temporal 获 5.5 亿美元 E 轮融资、估值 125.5 亿美元，居当周美国十大交易之首；同周 Crusoe 官宣 30 亿美元+ 数据中心巨轮。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
-      <title>英伟达 Q2 数据中心营收 890 亿美元，同比 +117%</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/donald-trump-rejects-calls-ai-040909311.html</link>
-      <guid isPermaLink="false">ai-morning-20260920-7</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:00 +0800</pubDate>
-      <description>英伟达二季度数据中心营收 890 亿美元、同比增长 117%；Q2 共 285 家对冲基金做多英伟达（Q1 为 275 家）。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
-      <title>《人工智能安全治理框架 3.0》落地：首次对 AI 智能体提出单独安全要求</title>
-      <link>https://sputniknews.cn/20260918/1073307228.html</link>
-      <guid isPermaLink="false">ai-morning-20260919-1</guid>
-      <pubDate>Fri, 18 Sep 2026 15:00:00 +0800</pubDate>
-      <description>网安标委在国家网络安全宣传周开幕式发布《框架 3.0》，延续「风险分类、技术防控、综合治理」逻辑；新版首次明确自主 AI 智能体的风险并给出可靠性原则。</description>
-      <category>AI大事</category>
-    </item>
-    <item>
-      <title>OpenAI 完成 1100 亿美元新融资，投前估值 7300 亿美元</title>
-      <link>https://openai.com/zh-Hans-CN/index/scaling-ai-for-everyone/</link>
-      <guid isPermaLink="false">ai-morning-20260916-7</guid>
-      <pubDate>Wed, 16 Sep 2026 08:00:00 +0800</pubDate>
-      <description>投资方包括软银（300 亿美元）、英伟达（300 亿美元）与亚马逊（500 亿美元）；软银另获 118.7 亿美元贷款支持对 OpenAI 的投资。</description>
-      <category>新闻速览</category>
     </item>
   </channel>
 </rss>

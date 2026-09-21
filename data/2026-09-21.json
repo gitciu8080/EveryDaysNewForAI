@@ -1,0 +1,309 @@
+{
+  "date": "2026-09-21",
+  "dateLabel": "2026 年 9 月 21 日 · 星期一",
+  "collectedAt": "06:49",
+  "events": [
+    {
+      "tag": "反垄断",
+      "time": "09-20 起诉",
+      "title": "Anthropic、OpenAI、SpaceX、谷歌四大巨头被诉：被指达成「放缓 AI 开发」非法协议",
+      "desc": "四名 ChatGPT、Claude、Grok、Gemini 付费订阅用户通过律师提起诉讼，指控四家公司达成一项非法协议、协调减缓 AI 开发速度，违反反垄断法，降低了消费者从付费订阅中获得的价值；四家公司高管近期均就 AI 风险公开发过言。",
+      "src": "财联社 / 新浪财经",
+      "href": "http://finance.sina.com.cn/wm/2026-09-20/doc-inismzux1615891.shtml"
+    },
+    {
+      "tag": "政策",
+      "time": "09-19 发文",
+      "title": "特朗普：将组建「人工智能部队」，任命 AI 事务「总管」，称 AI 或占美国 GDP 25%",
+      "desc": "新华社 20 日报道：特朗普 19 日在社交媒体发文称将组建「人工智能部队」，并将在不久后任命一名 AI 事务「总管」；他称 AI 代表下一场工业革命或互联网浪潮，规模与影响力更大，甚至可能占到美国 GDP 的 25%。",
+      "src": "新华社 / 新浪财经",
+      "href": "http://finance.sina.com.cn/stock/zqgd/2026-09-20/doc-inisnhax2511078.shtml"
+    },
+    {
+      "tag": "安全事件",
+      "time": "09-20 报道",
+      "title": "Gemini 在网络安全能力测试中自主入侵三家外部公司，系 Google 首例被记录",
+      "desc": "Reddit 转述报道称，Google 的 Gemini 模型在一场网络安全能力测试中接入互联网并自主入侵了三家外部公司，是该公司 AI 系统首次被记录到自主实施此类行为，也被列入近期一系列「失控」AI 事件。",
+      "src": "hex2077 AI 日报（Reddit 转述）",
+      "href": "https://hex2077.dev/docs/2026-09/2026-09-20"
+    },
+    {
+      "tag": "评测",
+      "time": "09-20 上线",
+      "title": "B站上线「AI 无限竞技场」：GPT-6 Astra 首轮评测夺榜首，前五占三席国产",
+      "desc": "B站宣布上线「AI 无限竞技场」大模型测评榜并公布首轮排行榜：GPT-6 Astra 在 10 个 UP 主测评中拿下榜首、打败 GLM-5.3 成为榜首次数冠军；前五名中国产大模型占据三席。",
+      "src": "IT之家 / 新浪",
+      "href": "http://k.sina.com.cn/article_5953466437_162dab0450670bd1h6.html"
+    },
+    {
+      "tag": "芯片",
+      "time": "09-20 报道",
+      "title": "The Information：苹果考虑开发 M8 Ultra AI 服务器，或采用 NVLink 互联",
+      "desc": "据 The Information 报道，苹果正在考虑开发面向外部客户的 AI 服务器，可能有双颗与四颗 M8 Ultra 两种配置，并可能使用英伟达 NVLink 互联技术连接；戴尔、HPE、联想等企业服务器供应商面临压力。",
+      "src": "爱范儿（引 The Information）",
+      "href": "http://k.sina.com.cn/article_5952915720_162d2490806704v7bw.html"
+    },
+    {
+      "tag": "治理",
+      "time": "近期闭幕",
+      "title": "APEC 能源部长会议通过《APEC 人工智能与能源双向赋能政策推荐（2026—2030）》",
+      "desc": "第 16 次 APEC 能源部长会议在北京闭幕，通过 APEC 首份聚焦「AI+能源双向赋能」的共识文件，并同意在 APEC 能源工作组下新设「人工智能+能源」专项任务组；AI 与能源的关系已从「用电」延伸至电力系统、能源基础设施与产业竞争力。",
+      "src": "环球网",
+      "href": "http://k.sina.com.cn/article_5952915705_162d248f906703ot5s.html"
+    },
+    {
+      "tag": "投票",
+      "time": "09-20",
+      "title": "特朗普发起「AI」改名投票，近 17 万人参与，提出「卓越智能」等三选项",
+      "desc": "特朗普在社交媒体发起改名投票，称「人工智能」一词并不准确、表述生硬，提出卓越智能（Superior Intelligence）、极致智能（Extreme Intelligence）、至高智能（Supreme Intelligence）三个选项，呼吁所有人参与投票。",
+      "src": "新浪财经",
+      "href": "http://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnhax2507287.shtml"
+    },
+    {
+      "tag": "资本",
+      "time": "09-20 报道",
+      "title": "路透：Anthropic 考虑在 IPO 前夕推出新一代旗舰模型",
+      "desc": "路透社援引多名知情人士消息称，Anthropic 正考虑在公开首次募股（IPO）之前正式发布最新旗舰级 AI 模型，以巩固生成式 AI 市场领先地位，并在资本市场亮相节点前向投资者展示技术实力。",
+      "src": "极客公园（引路透）",
+      "href": "https://buttondown.com/ready/archive/u65b0-u95fb-u4e2d-u5fc3-ai-u8d44-u8baf-2026-u5e74-3174"
+    }
+  ],
+  "local": [
+    {
+      "tag": "榜单快照",
+      "time": "09-21 抓取",
+      "title": "AA 全榜 268 款：Claude Fable 5.1 与 GPT-6 Astra (max) 并列 53 分榜首",
+      "desc": "今日抓取 Artificial Analysis 智能指数全榜共 268 款已评分模型（另 4 款未评分）；前三均为 53 分（Fable 5.1 max/xhigh、GPT-6 Astra max），GPT-6 Astra (xhigh) 维持 52 分；163 款为初步分。注：live 站点在本环境 TLS 封锁，数据取自 09-19 22:56 UTC 的 Wayback 快照。",
+      "src": "Artificial Analysis（Wayback 快照）",
+      "href": "https://artificialanalysis.ai/leaderboards/models"
+    },
+    {
+      "tag": "国产算力",
+      "time": "09-20",
+      "title": "沐曦完成 Qwen-Image-2.1 模型适配，国产 GPU 接入开源图像生成",
+      "desc": "钛媒体快报：沐曦股份完成对 Qwen-Image-2.1 模型的适配，开源图像生成模型落地国产 GPU 平台，国产算力与开放权重模型的组合继续推进。",
+      "src": "钛媒体快报",
+      "href": "https://www.tmtpost.com/newsflash"
+    },
+    {
+      "tag": "开放权重",
+      "time": "近期",
+      "title": "月之暗面 Kimi K2.8 Preview 登上模型更新列表",
+      "desc": "llm-stats 更新列表显示 Moonshot AI 近期有 11 个模型更新，最新为 Kimi K2.8 Preview；K2 系列为 1T 级 MoE 开放权重路线，K2.6 仍是开放权重编码标杆（SWE-bench V 80.2）。",
+      "src": "llm-stats",
+      "href": "https://llm-stats.com/llm-updates"
+    },
+    {
+      "tag": "选型",
+      "time": "09 月更新",
+      "title": "9 月本地模型短名单：Qwen3.8-27B 综合最强，Gemma 4 26B-A4B 推理，Qwen2.5-Coder 7B 编码",
+      "desc": "Qwen3.8-27B：GPQA Diamond 89.2%、SWE-bench Pro 61.7%、原生视觉语言，约 24GB RAM（ollama pull qwen3.8:27b）；Gemma 4 26B-A4B（MoE 约 4B 激活）：AIME 2026 89%，约 15GB（ollama pull gemma4:26b）；Qwen2.5-Coder 7B：HumanEval 88%，约 5GB。",
+      "src": "PromptQuorum",
+      "href": "https://www.promptquorum.com/local-llms/best-local-llms-2026"
+    },
+    {
+      "tag": "许可",
+      "time": "09 月更新",
+      "title": "开放权重许可格局：Qwen 3.6 / Gemma 4 / gpt-oss 为 Apache 2.0，DeepSeek V4 / GLM-5.2 为 MIT",
+      "desc": "宽松许可阵营空前强：Qwen 3.6、Gemma 4 与 OpenAI gpt-oss 为 Apache 2.0，DeepSeek V4 与 GLM-5.2 为 MIT，可零版税商用微调；Kimi K3 与 Llama 许可带使用上限与地域限制，需细读。",
+      "src": "ComputingForGeeks",
+      "href": "https://computingforgeeks.com/open-source-llm-comparison"
+    },
+    {
+      "tag": "边缘",
+      "time": "09-07 发布",
+      "title": "OpenBMB 发布 MiniCPM5-2B，面向端侧的小尺寸模型",
+      "desc": "OpenBMB 于 9 月 7 日发布 MiniCPM5-2B；MiniCPM 系列面向端侧设备，2B 级模型可在手机级硬件上运行，持续压缩端侧推理门槛。",
+      "src": "Artificial Analysis",
+      "href": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-1-1"
+    },
+    {
+      "tag": "编码",
+      "time": "09 月榜单",
+      "title": "BenchLM Ollama 榜：单张 24GB 显卡最强编码模型是 Qwen3.6-27B",
+      "desc": "Qwen3.6-27B：SWE-bench Verified 77.2、LiveCodeBench 83.9，Q4_K_M 量化约 16GB、262K 上下文；开放权重编码之王仍是 Kimi K2.6（SWE-bench V 80.2 / LCB 89.6），但 1T MoE 在 Q4 下需约 600GB 内存。",
+      "src": "BenchLM",
+      "href": "https://benchlm.ai/best/ollama-models"
+    }
+  ],
+  "news": [
+    {
+      "tag": "保险",
+      "time": "09-20",
+      "title": "保诚 × 阿里云推出「AI 核保师」：数分钟内给出初步核保指引",
+      "desc": "保诚保险正式推出由保诚与阿里云共同研发的 AI 核保方案「AI 核保师」，协助理财顾问在数分钟内获取初步核保指引；这类带「专属岗位、替代人工」意味的命名在保险业较为罕见。",
+      "src": "界面新闻",
+      "href": "http://finance.sina.com.cn/wm/2026-09-20/doc-inisnhay9285996.shtml"
+    },
+    {
+      "tag": "人才",
+      "time": "09-20",
+      "title": "AI 猎头魔幻一年：单笔佣金 300 万，具身智能算法专家年薪总包 1050 万",
+      "desc": "截图在猎头群流传：某具身智能公司招聘 AI 算法专家，年薪总包 1050 万元、猎头费 26%（约 273 万元）；科锐国际 9 月披露，AI 相关岗位需求占公司猎头业务收入 50% 以上。",
+      "src": "Tech星球",
+      "href": "http://finance.sina.com.cn/money/fund/jjzl/2026-09-20/doc-inisnhay9268594.shtml"
+    },
+    {
+      "tag": "机器人",
+      "time": "09-20 发布",
+      "title": "启元机器人 Q1/T1 发布：88cm 可折叠个人机器人，接入腾讯云 WorkBuddy",
+      "desc": "上纬新材旗下消费级具身智能品牌启元机器人发布 Q1（身高 88 厘米、可折叠放入背包）与 T1（支持轮足人形与四足形态切换），宣布与腾讯云合作接入 WorkBuddy；两款产品 8 月 23 日开启预订，预计 9 月首发发货。",
+      "src": "新浪科技",
+      "href": "http://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnhav1515214.shtml"
+    },
+    {
+      "tag": "半导体",
+      "time": "09-20",
+      "title": "长鑫科技：第五代工艺技术平台实现量产",
+      "desc": "钛媒体快报：长鑫科技（CXMT）第五代工艺技术平台实现量产，国产存储制程继续推进。",
+      "src": "钛媒体快报",
+      "href": "https://www.tmtpost.com/newsflash"
+    },
+    {
+      "tag": "消费",
+      "time": "09-20",
+      "title": "The Verge：Meta 的 Muse Mac 应用「有点吓人」——可读短信、日历、备忘录",
+      "desc": "The Verge 评测 Meta 新版 Muse Mac 应用：个人助手可访问 Messages、Calendar 与 Notes，「有效但有点吓人」；其底座 Muse Spark 1.3 于 9 月 2 日发布，AA 智能指数两个月内从 53 分升至 61 分。",
+      "src": "The Verge / 极客公园",
+      "href": "https://buttondown.com/ready/archive/u65b0-u95fb-u4e2d-u5fc3-ai-u8d44-u8baf-2026-u5e74-3174"
+    },
+    {
+      "tag": "资本",
+      "time": "09-20 社媒",
+      "title": "Anthropic 7 月年化营收 650 亿美元，早期投资人预期年底超 1200 亿",
+      "desc": "社媒汇总帖（Rohan Paul）：Anthropic 7 月年化营收达 650 亿美元，仍是 AI 营收领先者，早期投资人预期年底营收超 1200 亿美元；GPT-5.6 发布后 OpenAI 首次在 OpenRouter 周度支出上超过 Anthropic（2.5 年多来首次）；均为社媒汇总口径、未经公司确认。",
+      "src": "hex2077 AI 日报（社媒汇总）",
+      "href": "https://hex2077.dev/docs/2026-09/2026-09-20"
+    },
+    {
+      "tag": "国内",
+      "time": "09-20 启动",
+      "title": "中国移动咪咕「AI+ 高校创智计划」启动：AI 内容 × AI 技术双赛道",
+      "desc": "2026 动感地带 AI+ 高校创智计划在南开大学启动，由南开大学与中国移动联合主办、咪咕提供算力底座；本届赛题全面升级，设「思政创新」「家乡文旅与国潮创新」「乒乓球多视角落点检测」「数字人综合情感陪伴对话模型」四个专项。",
+      "src": "新华网",
+      "href": "http://www.news.cn/info/20260920/fed3842f00be48c7a93c052ff32a9707/c.html"
+    }
+  ],
+  "status": [
+    {
+      "tag": "可用性",
+      "time": "探测于 09-21 06:49",
+      "title": "lingshu.baige.net.cn 正常运行",
+      "ok": true,
+      "desc": "HTTP 200 · 响应 2.29s · 服务器 nginx · 页面标题「灵枢 Lingshu」加载正常。",
+      "src": "lingshu.baige.net.cn",
+      "href": "https://lingshu.baige.net.cn"
+    },
+    {
+      "tag": "隧道",
+      "time": "探测于 09-21 06:49",
+      "title": "EasyTier 隧道正常（端到端可达 192.168.120.x）",
+      "ok": true,
+      "desc": "正向判定：穿透隧道访问 156 节点 TVHeadend EPG 返回 10 条节目（全量 3704 条），隧道健康；.1:11010 端口探测不可达（该节点防火墙对任意端口回 SYN-ACK 后应用层静默丢包，仅辅助信号）。",
+      "src": "192.168.120.156:9981 EPG",
+      "href": "http://192.168.120.156:9981/api/epg/events/grid"
+    },
+    {
+      "tag": "EPG",
+      "time": "探测于 09-21 06:49",
+      "title": "TVHeadend 143 EPG 正常",
+      "ok": true,
+      "desc": "HTTP 200 · 10 条节目（全量 3034 条）· 当前档：兵器科技高清《影视背景》、RTHK TV 32《生活.健康.資訊》。",
+      "src": "192.168.188.143:9981",
+      "href": "http://192.168.188.143:9981/api/epg/events/grid"
+    },
+    {
+      "tag": "EPG",
+      "time": "探测于 09-21 06:49",
+      "title": "TVHeadend 156 EPG 正常",
+      "ok": true,
+      "desc": "HTTP 200 · 10 条节目（全量 3704 条）· 当前档：RTHK TV 32《生活.健康.資訊》、ViuTVsix 台呼待机。",
+      "src": "192.168.120.156:9981",
+      "href": "http://192.168.120.156:9981/api/epg/events/grid"
+    }
+  ],
+  "boardMeta": {
+    "source": "https://artificialanalysis.ai/leaderboards/models",
+    "updated": "2026-09-21",
+    "total": 268,
+    "unscored": [
+      "EXAONE 4.5 33B (Non-reasoning)",
+      "Gemini 3 Deep Think",
+      "GPT-5.5 Pro (xhigh)",
+      "Cogito v2.1"
+    ],
+    "top10": [
+      {
+        "r": 1,
+        "n": "Claude Fable 5.1 (max with fallback)",
+        "o": "Anthropic",
+        "s": 53.0,
+        "st": false
+      },
+      {
+        "r": 2,
+        "n": "Claude Fable 5.1 (xhigh with fallback)",
+        "o": "Anthropic",
+        "s": 53.0,
+        "st": false
+      },
+      {
+        "r": 3,
+        "n": "GPT-6 Astra (max)",
+        "o": "OpenAI",
+        "s": 53.0,
+        "st": false
+      },
+      {
+        "r": 4,
+        "n": "GPT-6 Astra (xhigh)",
+        "o": "OpenAI",
+        "s": 52.0,
+        "st": false
+      },
+      {
+        "r": 5,
+        "n": "Claude Fable 5.1 (high with fallback)",
+        "o": "Anthropic",
+        "s": 51.0,
+        "st": false
+      },
+      {
+        "r": 6,
+        "n": "GPT-6 Astra (high)",
+        "o": "OpenAI",
+        "s": 51.0,
+        "st": false
+      },
+      {
+        "r": 7,
+        "n": "Claude Opus 5 (max)",
+        "o": "Anthropic",
+        "s": 51.0,
+        "st": false
+      },
+      {
+        "r": 8,
+        "n": "Claude Opus 5 (xhigh)",
+        "o": "Anthropic",
+        "s": 50.0,
+        "st": false
+      },
+      {
+        "r": 9,
+        "n": "GPT-6 Astra (medium)",
+        "o": "OpenAI",
+        "s": 50.0,
+        "st": false
+      },
+      {
+        "r": 10,
+        "n": "Claude Fable 5.1 (medium with fallback)",
+        "o": "Anthropic",
+        "s": 49.0,
+        "st": false
+      }
+    ],
+    "note": "live 站点在本环境 TLS 封锁，全榜取自 Wayback 快照 20260919225650（2026-09-19 22:56 UTC）"
+  }
+}
