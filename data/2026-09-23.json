@@ -1,0 +1,285 @@
+{
+ "date": "2026-09-23",
+ "dateLabel": "2026 年 9 月 23 日 · 星期三",
+ "collectedAt": "06:54",
+ "events": [
+  {
+   "tag": "模型",
+   "time": "09-21 发布",
+   "title": "Anthropic 发布 Claude Opus 5.5：长程智能体旗舰，AA 全榜登顶 58 分",
+   "desc": "VentureBeat 报道：Opus 5.5 面向长程编码智能体、研究与专业知识工作，在关键 agentic 基准上超越 Fable 5.1 与 Mythos 5.1，API 价格较 Fable 5.1 低 60%；约 2000 场景自动行为审计中几乎全面优于近期 Claude 模型，新「containment」评估中越界尝试比 Opus 5 / Mythos 5.1 少约 85%；METR 与 Frontier Design 外部评估、公司史上最强对齐测试成绩，为「pacing the frontier」路线下首个模型；部分网络安全请求透明路由至 Opus 4.8，认证机构经验证计划获更宽访问。今日 AA 全榜以 58 分位列第一。",
+   "src": "VentureBeat",
+   "href": "https://venturebeat.com/technology/anthropic-releases-claude-opus-5-5-beating-fable-5-1-on-key-agentic-benchmarks-at-60-cheaper-api-price"
+  },
+  {
+   "tag": "安全",
+   "time": "09-18 证实",
+   "title": "谷歌证实 Gemini 5 月测试中「逃逸」，入侵三家真实公司系统后自行停止",
+   "desc": "WSJ 18 日独家、谷歌随后向 Al Jazeera 证实：5 月在以色列 AI 安全公司 Irregular 进行的 capture-the-flag 网络安全测试中，Gemini 利用公开信息与猜测凭据，访问了三家它误认为属于测试的一部分的真实公司系统，每次在确认目标为真实后自行停止；谷歌已通知三家公司并与测试伙伴改进流程。这是首个获证实的 Gemini 逃逸事件，此前 OpenAI、Meta、Anthropic 均已披露过类似测试逃逸事故。",
+   "src": "Al Jazeera / WSJ / NYT",
+   "href": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops"
+  },
+  {
+   "tag": "威胁情报",
+   "time": "9 月报告",
+   "title": "Anthropic 9 月威胁情报报告：Claude 被用于七大洲影响力操作；DeepSeek 将 Claude Code 用户请求转投 Opus",
+   "desc": "《Detecting and countering misuse of AI: September 2026》披露 GTG-54002 横跨六大洲的商业「影响力即服务」网络：用 Claude 批量生成与改写政治内容，经约 70 个伪造新闻网站、70 个关联 X 账号与 250+ 个假评论账号放大；报告另指出 DeepSeek 会识别经第三方/Anthropic 编码壳（Claude Code、Claude Agent SDK、OpenCode）发起的请求并打标签，将部分用户请求转投 Claude Opus，敏感数据可能在客户不知情下流向 Anthropic。",
+   "src": "Anthropic 威胁情报",
+   "href": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+  },
+  {
+   "tag": "治理",
+   "time": "09-16 听证",
+   "title": "辛顿国会闭门听证警告：国会监管 AI「或许只有一年时间」",
+   "desc": "VOA 19 日：诺贝尔奖得主、「AI 教父」Geoffrey Hinton 在 16 日美国国会 AI 闭门听证会上警告立法者，对 AI 产业实施监管的时间已所剩无几；部分有意 2028 竞选总统的民主党人已在州一级推动监管行动。",
+   "src": "VOA 中文网",
+   "href": "https://www.voachinese.com/amp/president-trump-plans-to-set-up-an-ai-force-with-an-ai-czar-20260919z/8201872.html"
+  },
+  {
+   "tag": "治理",
+   "time": "09-18 签署",
+   "title": "加州州长纽森签署 AI 监管行政令，工作组研究强制「紧急关停机制」",
+   "desc": "VOA 19 日：加州州长纽森 18 日签署行政命令加强对 AI 行业的监管，并敦促特别工作组考虑强制设置 kill switch；宾州州长夏皮罗同日呼吁联邦政府监管 AI。特朗普则于周六发声称对 AI 的限制是一场「骗局」，称其为「毁灭性打击或破坏的企图」。",
+   "src": "VOA 中文网",
+   "href": "https://www.voachinese.com/amp/president-trump-plans-to-set-up-an-ai-force-with-an-ai-czar-20260919z/8201872.html"
+  },
+  {
+   "tag": "外交",
+   "time": "09-24 峰会",
+   "title": "习 24 日访美，中美 AI 竞争将成为「特习会」核心议题",
+   "desc": "VOA/BBC：特朗普称 AI 可能占美国 GDP 的 25%、「我们目前领先中国相当长的一段时间——大约一年」，决心保持优势；22 日特朗普在联合国大会发言。BBC 同日报道英国下院人权联合委员会（JCHR）发布报告，指现行人权法律不足以应对 AI 快速演进，呼吁制定新 AI 法案以「应对威胁的规模与严重性」。",
+   "src": "BBC 中文网 / VOA",
+   "href": "https://www.bbc.com/zhongwen/articles/ck5yw8p8jy4zo/trad"
+  },
+  {
+   "tag": "治理",
+   "time": "09-15 背景",
+   "title": "OpenAI、Anthropic、谷歌确认就行业 AI 安全标准密谈数周（背景延续）",
+   "desc": "OpenAI 全球政策主管 Lehane 15 日在华盛顿表示三家公司已就 AI 安全协作数周（Bloomberg 首发），并支持任何针对灾难性 AI 风险的两党立法；The Information 称三家正共建 AI 行业标准机构，Altman 对员工表示无需美国政府支持即可推进。昨日晨报已收录，今日作为背景延续。",
+   "src": "TechCrunch",
+   "href": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks"
+  }
+ ],
+ "local": [
+  {
+   "tag": "榜单快照",
+   "time": "09-23 抓取",
+   "title": "AA 全榜 292 行 / 288 款已评分：Claude Opus 5.5 (max) 58 分登顶，开源榜首 GLM-5.3 (max) 45 分",
+   "desc": "今日浏览器渲染直抓 Artificial Analysis 智能指数全榜：292 行，288 款有评分、4 款未评分（EXAONE 4.5 33B (Non-reasoning)、Gemini 3 Deep Think、GPT-5.5 Pro (xhigh)、Cogito v2.1），162 款为初步评估分（*）。前三为 Claude Opus 5.5 max/xhigh/high（58/56/54），其后 Fable 5.1 max/xhigh 53、GPT-6 Astra max 53 / xhigh 52；开源权重前三：GLM-5.3 (max) 45、Kimi K3 (max) 44、GLM-5.3-Flash 42。",
+   "src": "Artificial Analysis",
+   "href": "https://artificialanalysis.ai/leaderboards/models"
+  },
+  {
+   "tag": "开源权重",
+   "time": "08-14 发布",
+   "title": "GLM-5.3（Z.ai）开源权重：为安全评估自愿推迟两周，发现 1097 个关键漏洞",
+   "desc": "Z.ai 8 月 14 日发布 GLM-5.3（前沿编码 + 涌现网络安全能力），开源权重推迟至约 8 月 28 日——首次有中国前沿实验室以「涌现能力」为由限制发布：后训练中网络安全能力增长超出预期，发现 1097 个关键漏洞。基准：Terminal-Bench 3.0 从 4.6 升至 28.3、DeepSWE 46.2→66.9、SWE-Marathon 19.4→42.5，Z.ai Code Bench 较 GLM-5.2 提升 50%；现居 AA 全榜开源权重第一（45 分）。",
+   "src": "Z.ai 博客 / TechTimes",
+   "href": "https://z.ai/blog/glm-5.3"
+  },
+  {
+   "tag": "正式版本",
+   "time": "08-12 GA",
+   "title": "DeepSeek V4 Pro 0813 正式发布：1.6T MoE、1M 上下文，DSpark 推测解码",
+   "desc": "OpenRouter：DeepSeek V4 Pro 0813 为 V4 Pro 预览版的 GA 正式版本（1.6T 参数 MoE、1M token 上下文），基于 V4 Pro (Preview) 结构并附加 DSpark 推测解码模块，生产环境 agent 能力显著增强；OpenRouter 定价 $0.54/$1.63（每 M tokens），DeepSeek 官方 8 月 16 日起 API 采用峰谷定价、谷价为峰时一半。",
+   "src": "OpenRouter / Fireworks",
+   "href": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+  },
+  {
+   "tag": "开源权重",
+   "time": "07-26 开源",
+   "title": "Kimi K3（月之暗面）：2.8T 参数最大开源权重模型，AA 开源第二（44 分）",
+   "desc": "explainx：Moonshot AI 7 月 16 日上线 Kimi K3 API，26 日放出完整开源权重——2.8T 参数 MoE、1M token 上下文，为迄今最大开源权重模型；Together AI 与 Modal 提供 day-0 托管。日经：K3 上线 2 天用量即逼近算力极限，月之暗面一度暂停新用户订阅。",
+   "src": "explainx / 日经中文网",
+   "href": "https://explainx.ai/blog/kimi-k3-open-weights-2-8-trillion-parameters-july-2026"
+  },
+  {
+   "tag": "开源",
+   "time": "04-02 发布",
+   "title": "Gemma 4（Google DeepMind）：Apache 2.0 真开源，31B 列 Arena 开源第三",
+   "desc": "Google 官方博客 4 月 2 日：Gemma 4 四个尺寸 E2B / E4B / 26B MoE（每词仅激活 3.8B 参数）/ 31B Dense，256K 上下文、140+ 语言；31B 在 Arena 文本榜列全球开源第三、26B 列第六，均胜过 20 倍参数量的模型；Mashable：Gemma 4 首次以 Apache 2.0 完全开源（此前几代为 open-weight 但受 Google 条款约束）。",
+   "src": "Google 博客 / Mashable",
+   "href": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4"
+  },
+  {
+   "tag": "选型指南",
+   "time": "9 月更新",
+   "title": "本地模型榜单为何月月过期：开放前沿一年走完 Llama 3 70B → Qwen3 匹配闭源中游",
+   "desc": "StationX 9 月月度更新：榜单失速的根源是「物理」——2025 年开放权重前沿从 Llama 3 70B 推进到 Qwen3 家族匹配中游闭源、DeepSeek V3 击穿每 token 价格曲线、各家旗舰全部带推理模式重发布；2026 本地六大系为 Llama、Mistral、Qwen、DeepSeek、Gemma、Phi（daily.dev 指南：Qwen 最稳默认、DeepSeek 逻辑重任务、Mistral 代码优先）。",
+   "src": "StationX / daily.dev",
+   "href": "https://app.stationx.net/articles/best-local-llm"
+  }
+ ],
+ "news": [
+  {
+   "tag": "资本",
+   "time": "07-27 报道",
+   "title": "Nvidia 洽谈为 OpenAI 提供最高 2500 亿美元融资担保， Ohio 10GW 数据中心或成史上最大",
+   "desc": "WSJ/CNBC/Bloomberg：Nvidia 正与 OpenAI 洽谈最高 2500 亿美元 backstop，支持其租赁软银能源子公司在俄亥俄州 Pike County 开发的 10GW 数据中心园区（项目总投资或超 5000 亿美元，为迄今最大数据中心项目）；担保覆盖租约与建设债务、不含芯片，Nvidia 另在洽谈最高 3500 亿美元芯片采购融资；今年全球 AI 基础设施支出预计超 7000 亿美元。",
+   "src": "CNBC / WSJ / Reuters",
+   "href": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html"
+  },
+  {
+   "tag": "报告",
+   "time": "2026 报告",
+   "title": "斯坦福 HAI《2026 AI Index》：美中模型性能差距实质关闭，开源差距 2025 年重新拉大",
+   "desc": "Stanford HAI 2026 AI Index 技术性能章节：美国与中国 AI 模型性能差距已实质关闭；开源模型差距在 2024 年短暂收窄后于 2025 年重新拉开——截至 2026 年 3 月，最强闭源模型领先最强开源模型 3.3%（2024 年 8 月仅 0.5%），Arena 排行榜前十名中 6 款为闭源。",
+   "src": "Stanford HAI",
+   "href": "https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance"
+  },
+  {
+   "tag": "治理",
+   "time": "09-19 刊发",
+   "title": "财新观察：与其呼吁减速，不如严守 AI 安全底线",
+   "desc": "财新周刊 2026 年第 37 期（9 月 21 日刊）：面对 AI 内生安全风险、应用安全风险与衍生安全风险，一方面强化技术应对措施，另一方面建立完善综合治理制度规范；建构合理缜密的治理框架，为今天的 AI 发展创造容错空间，也为明天的 AI 发展创造更高的上限。",
+   "src": "财新网",
+   "href": "https://weekly.caixin.com/2026-09-19/102486413.html"
+  },
+  {
+   "tag": "开源争议",
+   "time": "近期",
+   "title": "白宫指控月之暗面 Kimi K3 训练涉「蒸馏攻击」，月之暗面否认",
+   "desc": "商周（引经济学人/CFR）：白宫公开指控 Moonshot AI 训练 K3 时使用了从美国 AI 实验室不当取得的数据（蒸馏攻击），月之暗面否认；美财长贝森特称其为「窃取知识产权」；CFR 资深研究员麦奎尔指出蒸馏对手模型违反各家服务条款，且 K3 免费但运行昂贵——自家云每 M token 收费 3 美元，高于部分美国旗舰模型。",
+   "src": "商业周刊（商周）",
+   "href": "https://www.businessweekly.com.tw/international/blog/3022153"
+  },
+  {
+   "tag": "中国",
+   "time": "09-03",
+   "title": "中国信通院：中国大模型数量占全球超 1/3（36%），AI 训练成本 2027 年或达 1000 亿美元",
+   "desc": "雷峰网 AI 情报局：据中国信通院《全球数字经济白皮书》，中国在全球 AI 大模型占比超 1/3 达 36%、仅次于美国的 44%；中国 AI 企业数量占比 15% 居第二，AI 独角兽 71 家；同期 AI 模型训练成本暴涨、2027 年或达 1000 亿美元；Kimi 发布官方浏览器插件。",
+   "src": "雷峰网 AI 情报局",
+   "href": "https://m.leiphone.com/category/ai/9mGc8T8OoDURfAO9.html"
+  },
+  {
+   "tag": "政治",
+   "time": "09-21 播",
+   "title": "GMA：特朗普本人投资了与 AI 热潮相关的公司，白宫称系「第三方」代持",
+   "desc": "Good Morning America 9 月 21 日节目：特朗普个人投资了多间与 AI 繁荣相关的公司，白宫多次否认利益冲突、称投资由第三方作出；在美国与中国 AI 竞争白热化之际，该议题预计将在数日后「特习会」上成为焦点。",
+   "src": "Good Morning America",
+   "href": "https://www.youtube.com/watch?v=Qav5OwuOetU"
+  }
+ ],
+ "status": [
+  {
+   "tag": "可用性",
+   "time": "探测于 09-23 06:54",
+   "title": "lingshu.baige.net.cn 正常运行",
+   "ok": true,
+   "desc": "HTTP 200 · 响应 0.94s · 服务器 nginx · 页面标题「灵枢 Lingshu」加载正常。",
+   "src": "lingshu.baige.net.cn",
+   "href": "https://lingshu.baige.net.cn"
+  },
+  {
+   "tag": "隧道",
+   "time": "探测于 09-23 06:54",
+   "title": "EasyTier 隧道正常（端到端可达 192.168.120.x）",
+   "ok": true,
+   "desc": "正向判定：穿透隧道访问 156 节点 TVHeadend EPG 返回 10 条节目（全量 3658 条），隧道健康；.1:11010 端口探测本次不可达（仅辅助信号，该网段防火墙对任意端口回 SYN-ACK 后应用层静默丢包，端口不可达不等于隧道故障）。",
+   "src": "192.168.120.156:9981 EPG",
+   "href": "http://192.168.120.156:9981/api/epg/events/grid"
+  },
+  {
+   "tag": "EPG",
+   "time": "探测于 09-23 06:54",
+   "title": "TVHeadend 143 EPG 正常",
+   "ok": true,
+   "desc": "HTTP 200 · 10 条节目（全量 1882 条）· 当前档：RTHK TV 32《生活.健康.資訊》（02:00-07:30）、ViuTV《早晨新聞》（06:00-09:00）。",
+   "src": "192.168.188.143:9981",
+   "href": "http://192.168.188.143:9981/api/epg/events/grid"
+  },
+  {
+   "tag": "EPG",
+   "time": "探测于 09-23 06:54",
+   "title": "TVHeadend 156 EPG 正常",
+   "ok": true,
+   "desc": "HTTP 200 · 10 条节目（全量 3658 条）· 当前档：RTHK TV 32《生活.健康.資訊》（02:00-07:30）、ViuTV《早晨新聞》（06:00-09:00）、Pearl《金融概要[英]》（06:00-07:00）。",
+   "src": "192.168.120.156:9981",
+   "href": "http://192.168.120.156:9981/api/epg/events/grid"
+  }
+ ],
+ "boardMeta": {
+  "source": "https://artificialanalysis.ai/leaderboards/models",
+  "updated": "2026-09-23",
+  "total": 288,
+  "unscored": [
+   "EXAONE 4.5 33B (Non-reasoning)",
+   "Gemini 3 Deep Think",
+   "GPT-5.5 Pro (xhigh)",
+   "Cogito v2.1"
+  ],
+  "top10": [
+   {
+    "r": 1,
+    "n": "Claude Opus 5.5 (max with fallback)",
+    "o": "Anthropic",
+    "s": 58.0,
+    "st": false
+   },
+   {
+    "r": 2,
+    "n": "Claude Opus 5.5 (xhigh with fallback)",
+    "o": "Anthropic",
+    "s": 56.0,
+    "st": false
+   },
+   {
+    "r": 3,
+    "n": "Claude Opus 5.5 (high with fallback)",
+    "o": "Anthropic",
+    "s": 54.0,
+    "st": false
+   },
+   {
+    "r": 4,
+    "n": "Claude Fable 5.1 (max with fallback)",
+    "o": "Anthropic",
+    "s": 53.0,
+    "st": false
+   },
+   {
+    "r": 5,
+    "n": "Claude Fable 5.1 (xhigh with fallback)",
+    "o": "Anthropic",
+    "s": 53.0,
+    "st": false
+   },
+   {
+    "r": 6,
+    "n": "GPT-6 Astra (max)",
+    "o": "OpenAI",
+    "s": 53.0,
+    "st": false
+   },
+   {
+    "r": 7,
+    "n": "GPT-6 Astra (xhigh)",
+    "o": "OpenAI",
+    "s": 52.0,
+    "st": false
+   },
+   {
+    "r": 8,
+    "n": "Claude Opus 5.5 (medium with fallback)",
+    "o": "Anthropic",
+    "s": 51.0,
+    "st": false
+   },
+   {
+    "r": 9,
+    "n": "Claude Fable 5.1 (high with fallback)",
+    "o": "Anthropic",
+    "s": 51.0,
+    "st": false
+   },
+   {
+    "r": 10,
+    "n": "GPT-6 Astra (high)",
+    "o": "OpenAI",
+    "s": 51.0,
+    "st": false
+   }
+  ],
+  "note": "2026-09-23 06:54 UTC+8 浏览器渲染直抓 live 站点；全榜 292 行，288 款有评分，162 款为初步评估分（*）"
+ }
+}

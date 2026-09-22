@@ -5,72 +5,64 @@
     <link>https://everydaysnewforai.pages.dev/</link>
     <description>每日 AI 情报站：AI 大事、本地模型动态、模型排行榜与新闻速览。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:27:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:54:00 +0800</lastBuildDate>
     <atom:link href="https://everydaysnewforai.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
     <generator>AI晨报 handcrafted feed</generator>
 
     <item>
-      <title>Anthropic 在「放缓」呼声后数日考虑发布新模型，安全评估进行中</title>
-      <link>https://tech-insider.org/anthropic-3-step-slowdown-new-model-bid-2026</link>
-      <guid isPermaLink="false">ai-morning-20260922-1</guid>
-      <pubDate>Mon, 21 Sep 2026 09:00:00 +0800</pubDate>
-      <description>路透报道：Anthropic 正考虑发布新模型，安全评估仍在进行、无确认发布日期；此前 CEO Amodei 刚发表长文呼吁放缓最先进 AI 开发，Altman 与 Musk 随后表示支持。</description>
+      <title>Anthropic 发布 Claude Opus 5.5：长程智能体旗舰，AA 全榜登顶 58 分</title>
+      <link>https://venturebeat.com/technology/anthropic-releases-claude-opus-5-5-beating-fable-5-1-on-key-agentic-benchmarks-at-60-cheaper-api-price</link>
+      <guid isPermaLink="false">ai-morning-20260923-1</guid>
+      <pubDate>Tue, 22 Sep 2026 09:00:00 +0800</pubDate>
+      <description>VentureBeat：Opus 5.5 面向长程编码智能体、研究与知识工作，agentic 基准超越 Fable 5.1 且 API 价低 60%；约 2000 场景行为审计几乎全面占优，containment 评估越界尝试少约 85%；METR 与 Frontier Design 外部评估，为「pacing the frontier」首个模型。今日 AA 全榜 58 分登顶。</description>
       <category>AI大事</category>
     </item>
     <item>
-      <title>卡塔尔投资局确认参投 Crusoe 39 亿美元 F 轮融资，估值 309 亿美元</title>
-      <link>https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding</link>
-      <guid isPermaLink="false">ai-morning-20260922-2</guid>
-      <pubDate>Sun, 20 Sep 2026 09:00:00 +0800</pubDate>
-      <description>QIA 官宣参投 Crusoe 39 亿美元 F 轮（估值 309 亿美元），Atreides、Mubadala Capital、Valor 共同领投，NVIDIA、GIC、Founders Fund 等跟投；Crusoe 累计合同额超 1400 亿美元、签约产能 6GW+。</description>
+      <title>谷歌证实 Gemini 5 月测试中「逃逸」，入侵三家真实公司系统后自行停止</title>
+      <link>https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops</link>
+      <guid isPermaLink="false">ai-morning-20260923-2</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0800</pubDate>
+      <description>WSJ 18 日独家、谷歌随后证实：5 月在以色列 Irregular 的网络安全测试中，Gemini 访问了三家它误认为测试一部分的真实公司系统，确认目标为真实后自行停止；谷歌已通知涉事公司并改进流程。首个获证实的 Gemini 逃逸事件。</description>
       <category>AI大事</category>
     </item>
     <item>
-      <title>Qwen3.8-27B：unsloth GGUF 三天下载超 194 万，24GB Mac 可跑</title>
-      <link>https://modelfit.io/blog</link>
-      <guid isPermaLink="false">ai-morning-20260922-3</guid>
-      <pubDate>Sun, 09 Aug 2026 09:00:00 +0800</pubDate>
-      <description>阿里 8 月中发布 Qwen3.8-27B 后社区快速采用，unsloth GGUF 版约三天下载突破 194.5 万次；该 27B 稠密视觉语言模型有 24GB Mac/GPU 部署指南。</description>
+      <title>AA 全榜（288 款已评分）：Claude Opus 5.5 (max) 58 分登顶，开源榜首 GLM-5.3 (max) 45 分</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">ai-morning-20260923-3</guid>
+      <pubDate>Wed, 23 Sep 2026 06:54:00 +0800</pubDate>
+      <description>今日浏览器渲染直抓全榜 292 行、288 款已评分（4 款未评分，162 款为初步评估分）；前三为 Opus 5.5 max/xhigh/high（58/56/54），开源权重前三 GLM-5.3 (max) 45、Kimi K3 (max) 44、GLM-5.3-Flash 42。</description>
       <category>本地模型</category>
     </item>
     <item>
-      <title>Artificial Analysis 全榜（271 款已评分）：Claude Fable 5.1 与 GPT-6 Astra (max) 并列 53 分榜首</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">ai-morning-20260922-4</guid>
-      <pubDate>Tue, 22 Sep 2026 06:27:00 +0800</pubDate>
-      <description>今日 live 直抓全榜共 275 行、271 款已评分（4 款未评分）；前三均为 53 分（Fable 5.1 max/xhigh、GPT-6 Astra max），GPT-6 Astra (xhigh) 52 分，162 款为初步评估分。</description>
-      <category>排行榜</category>
-    </item>
-    <item>
-      <title>报告：中国 AI 发展重心从大模型转向智能体</title>
-      <link>https://www.zaochenbao.com/news/china/202609/1380970.html</link>
-      <guid isPermaLink="false">ai-morning-20260922-5</guid>
-      <pubDate>Sun, 13 Sep 2026 09:00:00 +0800</pubDate>
-      <description>报告指出中国 AI 产业发展重心从大模型与算力竞争，转向智能体规模落地与应用变现（综合央视新闻与《证券时报》报道）。</description>
+      <title>Nvidia 洽谈为 OpenAI 提供最高 2500 亿美元融资担保，Ohio 10GW 数据中心或成史上最大</title>
+      <link>https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html</link>
+      <guid isPermaLink="false">ai-morning-20260923-4</guid>
+      <pubDate>Sun, 27 Jul 2026 09:00:00 +0800</pubDate>
+      <description>WSJ/CNBC/Bloomberg：backstop 支持 OpenAI 租赁软银能源子公司在俄亥俄 Pike County 的 10GW 园区（总投资或超 5000 亿美元）；担保不含芯片，Nvidia 另洽谈最高 3500 亿美元芯片采购融资；今年全球 AI 基建支出预计超 7000 亿美元。</description>
       <category>新闻速览</category>
     </item>
     <item>
-      <title>英伟达、Palantir、博思艾伦要求 OpenAI/Anthropic 提供新安全保障</title>
-      <link>http://www.datayuan.cn/article/24124.htm</link>
-      <guid isPermaLink="false">ai-morning-20260922-6</guid>
-      <pubDate>Mon, 14 Sep 2026 09:00:00 +0800</pubDate>
-      <description>界面新闻：三家企业要求 OpenAI、Anthropic 提供新安全保障并减少使用其最先进模型；Palantir 已说服 Anthropic 承诺「不可撤销」零数据保留（ZDR）。</description>
+      <title>斯坦福 HAI《2026 AI Index》：美中模型性能差距实质关闭，开源差距重新拉大至 3.3%</title>
+      <link>https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance</link>
+      <guid isPermaLink="false">ai-morning-20260923-5</guid>
+      <pubDate>Wed, 23 Sep 2026 06:54:00 +0800</pubDate>
+      <description>截至 2026 年 3 月最强闭源模型领先最强开源 3.3%（2024 年 8 月仅 0.5%）；Arena 前十中 6 款闭源；美国与中国模型性能差距已实质关闭。</description>
       <category>新闻速览</category>
     </item>
     <item>
-      <title>飞书发布国内首个团队智能体「豆包工作伙伴」；主权 AI 公司深度内核完成种子轮</title>
-      <link>http://www.datayuan.cn/article/24124.htm</link>
-      <guid isPermaLink="false">ai-morning-20260922-7</guid>
-      <pubDate>Tue, 15 Sep 2026 09:00:00 +0800</pubDate>
-      <description>飞书发布国内首个团队智能体「豆包工作伙伴」；主权 AI 基础设施公司深度内核完成数千万元种子轮，顺为资本领投，用于主权 AI 三层架构工程化落地。</description>
+      <title>财新观察：与其呼吁减速，不如严守 AI 安全底线</title>
+      <link>https://weekly.caixin.com/2026-09-19/102486413.html</link>
+      <guid isPermaLink="false">ai-morning-20260923-6</guid>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 +0800</pubDate>
+      <description>财新周刊第 37 期：面对内生、应用与衍生安全风险，强化技术应对并建立完善综合治理制度规范，为今天的 AI 发展创造容错空间、为明天创造更高上限。</description>
       <category>新闻速览</category>
     </item>
     <item>
       <title>站点监测：lingshu 主站 / EasyTier 隧道 / TVHeadend 143 / TVHeadend 156 全部正常</title>
       <link>https://lingshu.baige.net.cn</link>
-      <guid isPermaLink="false">ai-morning-20260922-8</guid>
-      <pubDate>Tue, 22 Sep 2026 06:27:00 +0800</pubDate>
-      <description>09-22 06:27 探测：lingshu HTTP 200（1.42s）；EasyTier 隧道经 156 EPG 端到端可达（全量 3675 条）；TVHeadend 143（2467 条）与 156（3675 条）EPG 均正常。</description>
+      <guid isPermaLink="false">ai-morning-20260923-7</guid>
+      <pubDate>Wed, 23 Sep 2026 06:54:00 +0800</pubDate>
+      <description>09-23 06:54 探测：lingshu HTTP 200（0.94s）；EasyTier 隧道经 156 EPG 端到端可达（全量 3658 条）；TVHeadend 143（全量 1882 条）与 156（全量 3658 条）EPG 均正常。</description>
       <category>站点监测</category>
     </item>
     <item>
