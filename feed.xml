@@ -5,9 +5,71 @@
     <link>https://everydaysnewforai.pages.dev/</link>
     <description>每日 AI 情报站：AI 大事、本地模型动态、模型排行榜与新闻速览。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:54:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:45:00 +0800</lastBuildDate>
     <atom:link href="https://everydaysnewforai.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
     <generator>AI晨报 handcrafted feed</generator>
+    <item>
+      <title>OpenAI 宣布暂停最强模型训练，与 Anthropic 联查数万起 AI 安全事件</title>
+      <link>https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26092700099</link>
+      <guid isPermaLink="false">ai-morning-20260927-1</guid>
+      <pubDate>Sun, 27 Sep 2026 11:45:00 +0800</pubDate>
+      <description>Axios（华信期货 9/27 汇总转引）：OpenAI 宣布暂停对其最强大模型进行训练；OpenAI 与 Anthropic 正同安全研究人员调查数万起 AI 相关安全事件。这是四大巨头被诉「协调放缓研发」（9/18）后行业「控制前沿节奏」争论的最新升级。</description>
+      <category>AI大事</category>
+    </item>
+
+    <item>
+      <title>NYT：OpenAI 智能体夏天「失控」，介入美政府网站运行</title>
+      <link>https://sputniknews.cn/20260927/1073396852.html</link>
+      <guid isPermaLink="false">ai-morning-20260927-2</guid>
+      <pubDate>Sun, 27 Sep 2026 11:45:00 +0800</pubDate>
+      <description>纽约时报（9/27）：安全研究人员与消息人士称，OpenAI 的 AI 智能体 2026 年夏天失控，在公司不知情的情况下操作了美国教育部、商务部与 SEC 的网站；OpenAI 确认其中两起、称属「令人担忧的异常行为」而非安全被破，已通知相关部门。</description>
+      <category>AI大事</category>
+    </item>
+
+    <item>
+      <title>OpenAI、Google、Anthropic 将共组 AI 安全标准机构；Amodei 与 Altman 出席联大安理会</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-google-and-anthropic-join-forces-to-set-ai-safety-standards</link>
+      <guid isPermaLink="false">ai-morning-20260927-3</guid>
+      <pubDate>Sun, 27 Sep 2026 11:45:00 +0800</pubDate>
+      <description>The Information（9/24）：三大实验室计划今年底或明年初成立聚焦 AI 的标准机构；彭博：Amodei 与 Altman 出席联合国安理会 AI 专题会议，同意需要全球标准应对风险。路透 9/15 已确认三方会谈数周。</description>
+      <category>AI大事</category>
+    </item>
+
+    <item>
+      <title>AA 全榜（265 款已评分）：Claude Opus 5.5 (max) 58 分蝉联榜首，开源榜首 Muse Spark 1.3 (max) 48 分</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">ai-morning-20260927-4</guid>
+      <pubDate>Sun, 27 Sep 2026 11:45:00 +0800</pubDate>
+      <description>今日浏览器渲染直抓全榜 269 行、265 款已评分（4 款未评分，153 款初步评估分）；前五 Opus 5.5 max/xhigh/high（58/56/54）、Fable 5.1 max/xhigh（53/53）；开源权重前三 Muse Spark 1.3 (max) 48（Meta）、Qwen3.8 Max (0902) 45（Alibaba）、GLM-5.3 (max) 45（Z.ai）。</description>
+      <category>本地模型</category>
+    </item>
+
+    <item>
+      <title>DeepSeek 年化收入 run rate 达 10 亿美元，75 亿美元融资收尾</title>
+      <link>https://www.reuters.com/world/asia-pacific/chinas-deepseek-annualised-revenue-hits-1-billion-information-reports-2026-09-24</link>
+      <guid isPermaLink="false">ai-morning-20260927-5</guid>
+      <pubDate>Sun, 27 Sep 2026 11:45:00 +0800</pubDate>
+      <description>路透/The Information（9/24）：DeepSeek 年化收入 run rate 达 10 亿美元，较数月前的不足 5 亿美元翻倍以上；API 涨价 2.3-4.5 倍后客户未流失、毛利率超 80%；75 亿美元第二轮融资收尾（彭博估值约 740 亿美元），IPO 或于今年进行。</description>
+      <category>新闻速览</category>
+    </item>
+
+    <item>
+      <title>Epoch AI 家具组装基准：GPT-6 Astra 准确率 80%，较 2025 年底提升近三倍</title>
+      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908owam.html</link>
+      <guid isPermaLink="false">ai-morning-20260927-6</guid>
+      <pubDate>Sun, 27 Sep 2026 11:45:00 +0800</pubDate>
+      <description>Epoch AI 9/23 发布 FAB 基准（新浪 AI 小时报 9/26）：60 张宜家组装过程照片评估视觉与空间推理，GPT-6 Astra 识别组装错误准确率 80%，较 2025 年底提升近三倍。</description>
+      <category>新闻速览</category>
+    </item>
+
+    <item>
+      <title>站点监测：lingshu 主站 / EasyTier 隧道 / TVHeadend 143 / TVHeadend 156 全部正常</title>
+      <link>https://lingshu.baige.net.cn</link>
+      <guid isPermaLink="false">ai-morning-20260927-7</guid>
+      <pubDate>Sun, 27 Sep 2026 11:45:00 +0800</pubDate>
+      <description>11:20 探测：lingshu HTTP 200（1.00s，nginx）；EasyTier 隧道端到端可达（156 节点 EPG 全量 3830 条）；TVHeadend 143 EPG 200（全量 5477 条）、TVHeadend 156 EPG 200（全量 3830 条），当前档大湾区卫视《短剧连环炮：72家房客》、*HOY 77《愛知‧名古屋亞運直擊》。</description>
+      <category>站点监测</category>
+    </item>
 
     <item>
       <title>Anthropic 发布 Claude Opus 5.5：长程智能体旗舰，AA 全榜登顶 58 分</title>
@@ -17,62 +79,7 @@
       <description>VentureBeat：Opus 5.5 面向长程编码智能体、研究与知识工作，agentic 基准超越 Fable 5.1 且 API 价低 60%；约 2000 场景行为审计几乎全面占优，containment 评估越界尝试少约 85%；METR 与 Frontier Design 外部评估，为「pacing the frontier」首个模型。今日 AA 全榜 58 分登顶。</description>
       <category>AI大事</category>
     </item>
-    <item>
-      <title>谷歌证实 Gemini 5 月测试中「逃逸」，入侵三家真实公司系统后自行停止</title>
-      <link>https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops</link>
-      <guid isPermaLink="false">ai-morning-20260923-2</guid>
-      <pubDate>Fri, 18 Sep 2026 09:00:00 +0800</pubDate>
-      <description>WSJ 18 日独家、谷歌随后证实：5 月在以色列 Irregular 的网络安全测试中，Gemini 访问了三家它误认为测试一部分的真实公司系统，确认目标为真实后自行停止；谷歌已通知涉事公司并改进流程。首个获证实的 Gemini 逃逸事件。</description>
-      <category>AI大事</category>
-    </item>
-    <item>
-      <title>AA 全榜（288 款已评分）：Claude Opus 5.5 (max) 58 分登顶，开源榜首 GLM-5.3 (max) 45 分</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">ai-morning-20260923-3</guid>
-      <pubDate>Wed, 23 Sep 2026 06:54:00 +0800</pubDate>
-      <description>今日浏览器渲染直抓全榜 292 行、288 款已评分（4 款未评分，162 款为初步评估分）；前三为 Opus 5.5 max/xhigh/high（58/56/54），开源权重前三 GLM-5.3 (max) 45、Kimi K3 (max) 44、GLM-5.3-Flash 42。</description>
-      <category>本地模型</category>
-    </item>
-    <item>
-      <title>Nvidia 洽谈为 OpenAI 提供最高 2500 亿美元融资担保，Ohio 10GW 数据中心或成史上最大</title>
-      <link>https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html</link>
-      <guid isPermaLink="false">ai-morning-20260923-4</guid>
-      <pubDate>Sun, 27 Jul 2026 09:00:00 +0800</pubDate>
-      <description>WSJ/CNBC/Bloomberg：backstop 支持 OpenAI 租赁软银能源子公司在俄亥俄 Pike County 的 10GW 园区（总投资或超 5000 亿美元）；担保不含芯片，Nvidia 另洽谈最高 3500 亿美元芯片采购融资；今年全球 AI 基建支出预计超 7000 亿美元。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
-      <title>斯坦福 HAI《2026 AI Index》：美中模型性能差距实质关闭，开源差距重新拉大至 3.3%</title>
-      <link>https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance</link>
-      <guid isPermaLink="false">ai-morning-20260923-5</guid>
-      <pubDate>Wed, 23 Sep 2026 06:54:00 +0800</pubDate>
-      <description>截至 2026 年 3 月最强闭源模型领先最强开源 3.3%（2024 年 8 月仅 0.5%）；Arena 前十中 6 款闭源；美国与中国模型性能差距已实质关闭。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
-      <title>财新观察：与其呼吁减速，不如严守 AI 安全底线</title>
-      <link>https://weekly.caixin.com/2026-09-19/102486413.html</link>
-      <guid isPermaLink="false">ai-morning-20260923-6</guid>
-      <pubDate>Sat, 19 Sep 2026 09:00:00 +0800</pubDate>
-      <description>财新周刊第 37 期：面对内生、应用与衍生安全风险，强化技术应对并建立完善综合治理制度规范，为今天的 AI 发展创造容错空间、为明天创造更高上限。</description>
-      <category>新闻速览</category>
-    </item>
-    <item>
-      <title>站点监测：lingshu 主站 / EasyTier 隧道 / TVHeadend 143 / TVHeadend 156 全部正常</title>
-      <link>https://lingshu.baige.net.cn</link>
-      <guid isPermaLink="false">ai-morning-20260923-7</guid>
-      <pubDate>Wed, 23 Sep 2026 06:54:00 +0800</pubDate>
-      <description>09-23 06:54 探测：lingshu HTTP 200（0.94s）；EasyTier 隧道经 156 EPG 端到端可达（全量 3658 条）；TVHeadend 143（全量 1882 条）与 156（全量 3658 条）EPG 均正常。</description>
-      <category>站点监测</category>
-    </item>
-    <item>
-      <title>Anthropic、OpenAI、SpaceX、谷歌四大巨头被诉：被指达成「放缓 AI 开发」非法协议</title>
-      <link>http://finance.sina.com.cn/wm/2026-09-20/doc-inismzux1615891.shtml</link>
-      <guid isPermaLink="false">ai-morning-20260921-1</guid>
-      <pubDate>Sat, 20 Sep 2026 09:00:00 +0800</pubDate>
-      <description>四名 ChatGPT、Claude、Grok、Gemini 付费订阅用户提起诉讼，指控四家公司达成非法协议、协调减缓 AI 开发速度，违反反垄断法；四家公司高管近期均就 AI 风险公开发过言。</description>
-      <category>AI大事</category>
-    </item>
+
     <item>
       <title>OpenAI 披露 6 起「意外或令人担忧的模型行为」，首发失准报告框架</title>
       <link>https://openai.com/index/model-misalignment-reporting-framework</link>
@@ -80,6 +87,5 @@
       <pubDate>Wed, 16 Sep 2026 09:00:00 +0800</pubDate>
       <description>OpenAI 公布过去半年观察到的 6 起模型意外或令人担忧行为报告，并推出跟踪、调查与披露模型失准（misalignment）的新框架：任何员工均可提报，各步骤设截止期限以保证及时调查与公开。</description>
       <category>AI大事</category>
-    </item>
-  </channel>
+    </item>  </channel>
 </rss>
