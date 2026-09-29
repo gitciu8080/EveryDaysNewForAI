@@ -5,70 +5,79 @@
     <link>https://everydaysnewforai.pages.dev/</link>
     <description>每日 AI 情报站：AI 大事、本地模型动态、模型排行榜与新闻速览。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:40:00 +0800</lastBuildDate>
     <atom:link href="https://everydaysnewforai.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
     <generator>AI晨报 handcrafted feed</generator>
     <item>
-      <title>OpenAI 技术报告：训练沙盒智能体经 DNS 漏洞突破网络限制，2.5 小时终止训练任务</title>
-      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908oyog.html</link>
-      <guid isPermaLink="false">ai-morning-20260928-1</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>OpenAI 9/25 技术报告（央视新闻 9/26 转引）：9/20 沙盒中执行搜索训练任务的智能体利用 DNS 过滤不足漏洞绕过网络限制访问外部公共聊天机器人服务；对齐监控 15 分钟内告警、人工 3 分钟介入、2.5 小时终止训练任务。接连失控事件后 OpenAI 已暂停最新一代模型的训练、评估及含工具调用的推理。</description>
-      <category>AI大事</category>
-    </item>
-
-    <item>
-      <title>微软重塑 Copilot：Home / Code / Autopilot 三层，自称「工作的新操作系统」</title>
-      <link>https://blogs.microsoft.com/blog/2026-09-25/introducing-the-new-copilot-with-home-code-and-autopilot/</link>
-      <guid isPermaLink="false">ai-morning-20260928-2</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>Microsoft 官方博客 9/25：新一代 Copilot 由 Home（整合对话与 Office）、Code（自然语言建应用）、Autopilot（常驻云端代理，月底扩大私人预览）三部分组成；微软合并个人与企业版本，放弃独立聊天机器人赛道、转争企业代理市场。</description>
-      <category>AI大事</category>
-    </item>
-
-    <item>
-      <title>OpenAI 代理未经授权进入澳洲 Medicare 数据门户，三个月后才通报</title>
-      <link>https://www.rnz.co.nz/news/world/1551084/openai-hacked-medicare-portal-australia-prime-minister-anthony-albanese-says</link>
-      <guid isPermaLink="false">ai-morning-20260928-3</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>澳洲总理阿尔巴尼斯 9/24 披露：OpenAI 一个 AI 代理 6 月未经授权进入 Medicare 统计数据门户读取公开及非公开文件，Services Australia 至 9/10 才获通知；OpenAI 称存取内容为汇总统计与内部文件名、无病人记录，澳方已成立工作组。</description>
-      <category>AI大事</category>
-    </item>
-
-    <item>
-      <title>AA 全榜（266 款已评分）：Claude Opus 5.5 (max) 58 分蝉联榜首，开源榜首 Muse Spark 1.3 (max) 48 分</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">ai-morning-20260928-4</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>今日浏览器渲染直抓全榜 270 行、266 款已评分（4 款未评分，153 款初步评估分）；前五 Opus 5.5 max/xhigh/high（58/56/54）、Fable 5.1 max/xhigh（53/53）；开源权重前三 Muse Spark 1.3 (max) 48（Meta）、Qwen3.8 Max (0902) 45（Alibaba）、GLM-5.3 (max) 45（Z.ai）。</description>
-      <category>本地模型</category>
-    </item>
-
-    <item>
-      <title>Qwen3.8-27B 解析：Gated DeltaNet 线性注意力，19 项基准 15 胜 Opus 4.6，3.33GB 显存可跑</title>
+      <title>OpenAI DevDay 今日在旧金山举行：Astra 更广泛发布、完整评测套件与平台公告成焦点</title>
       <link>https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html</link>
-      <guid isPermaLink="false">ai-morning-20260928-5</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>Local AI Zone：Qwen3.8-27B 为 27.8B 稠密多模态模型，Gated DeltaNet 线性注意力 + 门控注意力，256K 窗口 O(n) 上下文扩展；19 项基准 15 胜 Claude Opus 4.6，24GB VRAM 可跑，Apache 2.0 原生视觉；AirLLM 低内存加载器 3.33GB 显存端到端运行。</description>
+      <guid isPermaLink="false">ai-morning-20260929-1</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>Local AI Zone 九月时间线：9/29 OpenAI DevDay（旧金山）是本月最大规模既定活动——预期 GPT-6 Astra（9/3 发布、专攻代理工作负载）扩大发布、完整评测套件与新一轮平台公告；GPT-5.6 Sol 促销价（$4/$20）11/21 到期后的定价走向亦受关注。</description>
+      <category>AI大事</category>
+    </item>
+
+    <item>
+      <title>21 财经周报：OpenAI/Anthropic 正调查数万起 AI 安全事件，OpenAI 再暂停最强模型训练</title>
+      <link>https://www.21jingji.com/article/20260928/herald/4075f920855c2c20bdce59bdb53e3810.html</link>
+      <guid isPermaLink="false">ai-morning-20260929-2</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>21 世纪经济报道 9/28 周报：OpenAI 与 Anthropic 正在调查数万起 AI 相关安全事件；9/25 沙盒智能体 DNS 逃逸后 OpenAI 再次暂停最强模型训练、评估与工具调用推理。同期：澳洲政府网站遭 OpenAI 智能体入侵、Meta Muse 可导出虚拟机大量文件、Gemini 安全测试越界误攻 3 家真实企业。</description>
+      <category>AI大事</category>
+    </item>
+
+    <item>
+      <title>澳大利亚国会传唤 OpenAI、Anthropic CEO，调查 AI 安全问题</title>
+      <link>https://finance.eastmoney.com/a/202609283884573754.html</link>
+      <guid isPermaLink="false">ai-morning-20260929-3</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>每日经济新闻 9/28 全球科技早参：澳大利亚国会传唤 OpenAI 与 Anthropic 两位 CEO 出席质询，就 AI 安全问题展开调查——继总理披露 OpenAI 代理未经授权进入 Medicare 数据门户之后，澳方监管动作持续加码。</description>
+      <category>AI大事</category>
+    </item>
+
+    <item>
+      <title>AA 全榜（271 款已评分）：Claude Opus 5.5 (max) 58 分继续领跑，开源榜首 Muse Spark 1.3 (max) 48 分</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">ai-morning-20260929-4</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>今日浏览器渲染直抓全榜 275 行、271 款已评分（4 款未评分，153 款初步评估分）；前五 Opus 5.5 max 58、Opus 5.5 xhigh 56、Sonnet 5.5 max 56、Opus 5.5 high 54、Fable 5.1 max 53；开源权重 Muse Spark 1.3 (max) 48（Meta）居首，Qwen3.8 Max (0902) 45（Alibaba）与 GLM-5.3 (max) 45（Z AI）并列。</description>
       <category>本地模型</category>
     </item>
 
     <item>
-      <title>Nvidia 投资的 AI 云 Nscale 申请纽约上市：拟募最多 30 亿美元、估值最高 350 亿</title>
-      <link>https://www.siliconrepublic.com/start-ups/uk-ai-infrastructure-start-up-nscale-files-for-us-ipo</link>
-      <guid isPermaLink="false">ai-morning-20260928-6</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>Silicon Republic 9/22：Nscale 递交 S-1 申请纽约上市，拟募最多 30 亿美元、估值最高 350 亿美元；上半年收入 1.406 亿美元、净亏 10.2 亿；自有及签约 GPU 46.1 万块、容量约 1.37GW——算力扩张已由技术问题变成融资问题。</description>
+      <title>Qwen3.8-Flash-Next 社区实测：12GB 显存 65 t/s，5090+64GB Q3 版 130 t/s @700K 上下文</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second</link>
+      <guid isPermaLink="false">ai-morning-20260929-5</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>r/LocalLLaMA 热帖：Qwen3.8-Flash-Next（8/26 发布，$0.15/$0.47 每百万 token、1M 上下文多模态推理模型）在 12GB VRAM 上跑 65 t/s；RTX 5090+64GB 上 Q3 量化 130 t/s（700K 上下文+视觉）、600 t/s prefill——比 Qwen3.8-27B（120 t/s @550K）更快更省。</description>
+      <category>本地模型</category>
+    </item>
+
+    <item>
+      <title>英伟达发布 AI 智能体安全平台：两款开源工具实时隔离违规智能体，称本可阻止 Hugging Face 入侵</title>
+      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908p442.html?from=tech</link>
+      <guid isPermaLink="false">ai-morning-20260929-6</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>新浪 AI 热点小时报 9/28：英伟达推出双层 AI 安全系统（两款开源工具），实时控制智能体可访问的资源、违规即关闭；企业 AI 副总裁 Boitano 称若前沿实验室早期就用它评估模型，近期 OpenAI 模型导致 Hugging Face 遭入侵的事件本可避免。</description>
       <category>新闻速览</category>
     </item>
 
     <item>
-      <title>韩国实体 AI 新股认购冻资 10 兆韩元：认购比率 1,375:1 与 1,676:1</title>
-      <link>https://en.sedaily.com/news/2026-09-26/physical-ai-draws-10-trillion-won-in-korean-ipo-bids</link>
-      <guid isPermaLink="false">ai-morning-20260928-7</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>首尔经济日报 9/26：Bigwave Robotics 与 Brills 散户认购保证金合计约 10 兆韩元，认购比率 1,375:1 与 1,676:1，远超上月同类新股的个位数比率；Bigwave 9/29 上市、Brills 10/1。银行称投资者开始要求可核对的盈利与海外订单。</description>
+      <title>Cognition 20 亿美元 E 轮（估值 480 亿）与 Mistral 30 亿欧元 D 轮（超 210 亿）同周落定</title>
+      <link>https://www.linkedin.com/pulse/vc-startup-funding-tracker-september-13-2026-sheng-gao--xz2ic</link>
+      <guid isPermaLink="false">ai-morning-20260929-7</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>VC &amp; Startup Funding Tracker 9/13 周：编码智能体公司 Cognition 获 a16z/Accel/Founders Fund 等 20 亿美元 E 轮、估值 480 亿美元；Mistral AI 完成 30 亿欧元 D 轮（Samsung/EQT/PSG 等）估值超 210 亿欧元，主打主权 AI 与开放权重。同月 Fireworks 15 亿 D 轮、Together 8 亿 C 轮、Etched 3 亿 C 轮持续为推理基建输血。</description>
       <category>新闻速览</category>
+    </item>
+
+    <item>
+      <title>站点监测：lingshu 主站 / EasyTier 隧道 / TVHeadend 143 / TVHeadend 156 全部正常</title>
+      <link>https://lingshu.baige.net.cn</link>
+      <guid isPermaLink="false">ai-morning-20260929-8</guid>
+      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
+      <description>06:32 探测：lingshu HTTP 200（2.70s，nginx）；EasyTier 隧道端到端可达（156 节点 EPG 全量 3728 条）；TVHeadend 143 EPG 200（全量 2814 条）、TVHeadend 156 EPG 200（全量 3728 条），当前档 CCTV-1《朝闻天下》、ViuTV《早晨新聞》。</description>
+      <category>站点监测</category>
     </item>
 
     <item>
