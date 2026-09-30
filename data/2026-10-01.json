@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-01",
+  "dateLabel": "2026 年 10 月 1 日 · 星期四",
+  "collectedAt": "06:58",
+  "events": [
+    {
+      "tag": "政策",
+      "time": "10-01 报道",
+      "title": "美国政府拟将 Artificial Intelligence 改称「超级智能」（Super Intelligence，SI）",
+      "desc": "新华社 10/1：美国政府计划把 Artificial Intelligence（AI）改称为 Super Intelligence（SI），给出的理由是「Artificial」词义为「人造的/不真实的」，而「Super」更能强调技术正在表现出的能力。学术语境下超级智能指在广泛认知能力上超过人类的智能，今天的大模型还不能称为超级智能——真正变化的不是机器一夜升级，而是人类相对于机器的位置感。",
+      "src": "新华社（新浪 AI 热点小时报转引）",
+      "href": "https://k.sina.com.cn/article_7857201856_1d45362c001908pdyg.html?from=tech"
+    },
+    {
+      "tag": "安全",
+      "time": "09-26 报道",
+      "title": "Google、OpenAI、Anthropic 联手推进前沿 AI 安全标准组织 SAFA，瞄准 2026 底—2027 初",
+      "desc": "TheStreet 9/26（Yahoo Finance 转载）：三大实验室联合推动成立 Standards Authority for Frontier AI（SAFA），目标窗口 2026 年底至 2027 年初。核心指南包括：模型发布前第三方测试、安全事件报告规则、把自愿安全承诺变成可核查框架。同期背景：SpaceX S-1 披露 Anthropic 每月支付 12.5 亿美元租用孟菲斯 Colossus 1 数据中心，合同至 2029 年 5 月。",
+      "src": "TheStreet（Yahoo Finance）",
+      "href": "https://finance.yahoo.com/technology/ai/articles/google-openai-anthropic-just-made-174700095.html"
+    },
+    {
+      "tag": "资本",
+      "time": "2026 报道",
+      "title": "Anthropic 完成 650 亿美元 H 轮，估值 9650 亿美元：B2B 编码定位获公开市场溢价",
+      "desc": "Tech-Insider 2026：Anthropic $65B H 轮使其估值达 $965B，三家前沿实验室的产品定位已结构性分化——Anthropic 是 B2B 编码与工具调用公司，OpenAI 是消费者+企业混合、分发最广，Google 是垂直整合的基础设施+模型栈。对照 OpenAI $122B 融资 $852B 估值的「IPO 预演」，Anthropic 若先行上市将改变 2027 年所有晚期融资 AI 实验室（xAI、DeepSeek 上市载体等）的谈判姿态。",
+      "src": "Tech-Insider",
+      "href": "https://tech-insider.org/anthropic-65-billion-series-h-965-billion-valuation-2026"
+    },
+    {
+      "tag": "安全",
+      "time": "2026 夏季报告",
+      "title": "未来生命研究所 2026 夏季 AI 安全指数：9 家公司无一超 C-，多数 D 以下",
+      "desc": "FLI 夏季指数评估 9 家公司（Anthropic、OpenAI、Google DeepMind、xAI、Z.ai、Meta、DeepSeek、阿里云、Mistral）37 项指标、6 大领域：2024 至 2026 年间，原先禁止军事应用的公司逐步转向主动寻求防务合作；可解释性与思维链监控被质疑「检测不等于预防」——安全话语超过实际行为。",
+      "src": "Future of Life Institute",
+      "href": "https://futureoflife.org/ai-safety-index-summer-2026"
+    },
+    {
+      "tag": "产业",
+      "time": "10-23 开幕",
+      "title": "2026 全球开发者先锋大会（GDPS）暨国际具身智能技能大赛 10/23–25 登陆张江",
+      "desc": "新浪 AI 10/1：9/29 GDPS 2026 媒体通气会向全球开发者发出「带上技术、奔赴实景」集结令。浦东人工智能产业规模 2026 上半年达 1096 亿元、同比增长 17.8%，其中人工智能工业产值增长 42%，制造侧产业承载能力持续增强。",
+      "src": "新浪 AI 热点小时报",
+      "href": "https://k.sina.com.cn/article_7857201856_1d45362c001908pdyg.html?from=tech"
+    },
+    {
+      "tag": "发布",
+      "time": "09-30 论坛",
+      "title": "上海交大「AI+大设计」论坛发布建筑遗产保护勘察设计垂直大模型与 DeepHealth 深度健康大模型",
+      "desc": "上观新闻 9/30：上海交大主办 WDCC2026「AI+大设计」论坛，全国高校与产业界代表围绕「大设计」视野下的教育变革、设计学科重塑展开讨论。与会专家一致看法：设计已进入人智共创时代——「让 AI 理解人，让设计驱动产业」。",
+      "src": "上观新闻（新浪转引）",
+      "href": "https://k.sina.com.cn/article_7857201856_1d45362c001908pdyg.html?from=tech"
+    }
+  ],
+  "local": [
+    {
+      "tag": "榜单快照",
+      "time": "10-01 抓取",
+      "title": "AA 全榜 262 款已评分：Claude Opus 5.5 (max) 58 分继续领跑，开源权重榜首 MiMo-V2.6-Pro 46 分",
+      "desc": "今日浏览器渲染直抓 Artificial Analysis 智能指数全榜：267 行，262 款有评分、5 款未评分（EXAONE 4.5 33B (non-reasoning)、Gemini 3 Deep Think、Claude Sonnet 5.5 (low with fallback)、GPT-5.5 Pro (xhigh)、Cogito v2.1），141 款为初步评估分（*）。前五：Claude Opus 5.5 max/xhigh（58/56）、Claude Sonnet 5.5 max（56）、Claude Opus 5.5 high（54）、Claude Fable 5.1 max（53）；开源权重前三：MiMo-V2.6-Pro（Xiaomi）46、GLM-5.3 (max)（Z AI）45、Kimi K3 (max)（Kimi）44。较 09-29（271 款已评分）减少 9 款。",
+      "src": "Artificial Analysis",
+      "href": "https://artificialanalysis.ai/leaderboards/models"
+    },
+    {
+      "tag": "开源",
+      "time": "近日发布",
+      "title": "智谱开源 GLM-5.3-Flash：AA 智能指数 57 分与 Claude Opus 4.8 持平，「前沿能力+1/40 价格+国产算力底座」",
+      "desc": "科创板日报：GLM-5.3-Flash 正式面向全球开源，已接入 ZCode 等编码平台并纳入 GLM Coding Plan（每天限量发放 10000 张体验卡），同步开放 API 调用。揭晓前它以匿名「隐身模型」Ox-Alpha 上线 OpenRouter，首日调用量登顶、单日处理 62T tokens，终结 DeepSeek 在 OpenCode 56 天霸榜；独立研究员的分词器指纹分析 11 项探针与 GLM 家族全匹配，智谱官方证实。",
+      "src": "科创板日报",
+      "href": "https://www.chinastarmarket.cn/detail/2465814"
+    },
+    {
+      "tag": "开源",
+      "time": "2026-08 发布",
+      "title": "阿里开源 Qwen3.8-Flash-Next：125B MoE 单 Token 仅激活 6B，51B 查表参数可卸载到 DDR5 内存",
+      "desc": "知乎深度拆解：Qwen3.8-Flash-Next 拥有 125B MoE 骨干网络，单 Token 计算仅激活 6B 参数；约 51B 参数构建成大型 n-gram/词表嵌入查表层，本地推理（llama.cpp/GGUF）时可直接卸载到普通系统内存（DDR5）——以往需要双卡 A100/H100 的千亿级模型，如今单张消费级显卡+大内存即可运行。架构上组合 36 层 Gated DeltaNet 与 12 层 Qwen Sparse Attention 混合注意力。",
+      "src": "知乎（北方的郎）",
+      "href": "https://zhuanlan.zhihu.com/p/2078849626208322748"
+    },
+    {
+      "tag": "格局",
+      "time": "08-27 早报",
+      "title": "Flash 浪潮：智谱 GLM-5.3-Flash 与阿里 Qwen3.8-Flash 同日开源，成 2026 下半年开源主战场",
+      "desc": "AI 早报 8/27：两家 Flash 系模型同日发布并开源。社区对照显示 GLM-5.3-Flash 被视为 DeepSeek V4 Flash 的平替候选——V4 Flash 8/17 官宣提价后，市场对「用得起的前沿模型」呼声日高；DeepSeek V4 Pro 0813 为当前正式版，开源 Flash 三强（GLM-5.3-Flash / DeepSeek-V4-Flash / Qwen3.8-Flash-Next）构成深度拆解热点。",
+      "src": "Bilibili（AI 早报）",
+      "href": "https://www.bilibili.com/video/BV1vVhc63EJD"
+    },
+    {
+      "tag": "社区",
+      "time": "近期横评",
+      "title": "Qwen3.8 27B 社区魔改版：16G 显卡跑 80K+ 上下文不降智",
+      "desc": "Bilibili 社区横评：Qwen3.8 27B 社区魔改版在 16G 显卡上可运行 80K+ 上下文且不降智，进入本地部署横评榜单；同期「2026 本地大模型横评」覆盖 13 款开源模型、4000 元丐版硬件实战，Qwen3.6、Gemma 4、Ornith 1.0 同场竞技。",
+      "src": "Bilibili",
+      "href": "https://www.bilibili.com/video/BV1vVhc63EJD"
+    },
+    {
+      "tag": "趋势",
+      "time": "9 月统计",
+      "title": "九月模型发布盘点：31 个可核实发布、14 家实验室、9 个开放权重",
+      "desc": "Capital & Compute：2026 年 9 月有 31 个可对照日期来源核实的模型发布，来自 14 家实验室，其中 9 个开放权重；旗舰发布包括 Claude Opus 5.5、GPT-6 Sol、Grok 4.7、DeepSeek V4.1 Flash、GPT-6 Astra、K2 Horizon 375B-A23B、Gemini 3.8 Flash、Muse Spark 1.3、Claude Fable 5.1。",
+      "src": "Capital & Compute",
+      "href": "https://capitalandcompute.net/ai-model-releases"
+    }
+  ],
+  "news": [
+    {
+      "tag": "资本",
+      "time": "09-30 官宣",
+      "title": "快手任命于越为可灵 AI CEO：可灵刚完成超 30 亿美元融资，Q2 营收同比增 200%+",
+      "desc": "雷递 9/30：快手宣布管理层调整——创始人、CEO 程一笑将兼任社区科学线负责人，于越转任可灵 AI 公司董事兼首席执行官。可灵 AI 刚募资超 30 亿美元，最新财报显示 2026 年 Q2 营业收入超 8.5 亿元、同比增长超 200%，全球用户突破 1 亿、企业客户接近 5 万家。",
+      "src": "雷递（新浪 AI 转引）",
+      "href": "https://k.sina.com.cn/article_7857201856_1d45362c001908pdyg.html?from=tech"
+    },
+    {
+      "tag": "合规",
+      "time": "10-01 报道",
+      "title": "上海科创法律协同体成立，发布 AI 企业合规蓝皮书",
+      "desc": "新浪 AI 热点小时报 10/1：上海科创法律协同体成立并发布 AI 企业合规蓝皮书，以合规工具护航 AI 企业与新质生产力发展。",
+      "src": "新浪 AI 热点小时报",
+      "href": "https://k.sina.com.cn/article_7857201856_1d45362c001908pdyg.html?from=tech"
+    },
+    {
+      "tag": "融资",
+      "time": "9 月系列",
+      "title": "AI 智能体安全融资潮：AIR $50M 双种子轮、Zenity $125M C 轮、Cymphony $25M A 轮",
+      "desc": "New Market Pitch / Crunchbase 2026-09：AIR 完成两轮种子共 $50M（9/1，智能体安全+运行时治理）；Zenity $125M C 轮（8/3，智能体安全监控）；Cymphony $25M A 轮（9/13，管控智能体对企业数据的访问）；Oak $60M 种子轮（AI 时代身份智能）、Cylake $45M 种子轮（AI 原生安全、不依赖公有云）——agent 身份、授权与治理正成为新的企业安全控制平面。",
+      "src": "New Market Pitch + Crunchbase News",
+      "href": "https://newmarketpitch.com/blogs/news/ai-safety-funding-news"
+    },
+    {
+      "tag": "论战",
+      "time": "9 月下旬",
+      "title": "BBC：AI「放缓」论战——业界示警「恐惧人类未来」，特朗普提醒勿忘中美竞争",
+      "desc": "BBC 中文：2023 年布萊切利园首届 AI 安全峰会三年后，当年发出最严厉警告的人士如今似乎不再那么确定。业界示警「恐惧人类未来」，特朗普则在白玫瑰园提醒勿忘中美竞争；AI 巨头前雇员称同业「真诚恐惧」人类遭灭绝，西方必须与中国协调。",
+      "src": "BBC 中文",
+      "href": "https://www.bbc.com/zhongwen/articles/clyrkq2ew44o/trad"
+    },
+    {
+      "tag": "外交",
+      "time": "09-23 峰会",
+      "title": "美中峰会聚焦 AI 议题但恐难有实质进展；「AI 安全问题通报机制」在谈",
+      "desc": "纽约时报中文网 9/23：中国认为美国在 AI 问题上负有更大责任——世界上最先进的模型掌握在美国手中，双方「能够展开富有成效对话的议题范围非常狭窄」；战略与国际研究中心高级顾问称根深蒂固的不信任限制信息共享，「设计出一种不只是象征性的机制将会非常、非常困难」。相关：美中讨论建立 AI 安全问题通报机制（9/21）。",
+      "src": "纽约时报中文网",
+      "href": "https://cn.nytimes.com/business/20260923/us-china-ai-competition"
+    },
+    {
+      "tag": "榜单",
+      "time": "10-01 快照",
+      "title": "AA 速度与价格双极：Celeris-1 1565 t/s 居首，GPT-6 Luna (low) $0.0045/任务最便宜",
+      "desc": "Artificial Analysis 实时数据：Celeris-1 以 1565.0 tokens/秒领跑输出速度，其后为 Mercury 2（812.0 t/s）与 Mercury 2.5（760.1 t/s）；GPT-6 Luna (low) 以每智能指数任务 $0.0045 最便宜，其后为 Granite 4.2 3B 与 Ministral 3 3B（$0.01）。",
+      "src": "Artificial Analysis",
+      "href": "https://artificialanalysis.ai/models"
+    }
+  ],
+  "status": [
+    {
+      "tag": "可用性",
+      "time": "探测于 10-01 06:58",
+      "title": "lingshu.baige.net.cn 正常运行",
+      "ok": true,
+      "desc": "HTTP 200 · 响应 1.52s · 服务器 nginx · HTTP/2，页面加载正常（no-store）。",
+      "src": "lingshu.baige.net.cn",
+      "href": "https://lingshu.baige.net.cn"
+    },
+    {
+      "tag": "隧道",
+      "time": "探测于 10-01 06:58",
+      "title": "EasyTier 隧道正常（端到端可达 192.168.120.x）",
+      "ok": true,
+      "desc": "正向判定：穿透隧道访问 156 节点 TVHeadend EPG 返回 10 条节目（全量 3787 条），隧道健康；.1:11010 端口探测本次不可达（仅辅助信号，该网段防火墙对任意端口回 SYN-ACK 后应用层静默丢包，端口不可达不等于隧道故障）。",
+      "src": "192.168.120.156:9981 EPG",
+      "href": "http://192.168.120.156:9981/api/epg/events/grid"
+    },
+    {
+      "tag": "EPG",
+      "time": "探测于 10-01 06:58",
+      "title": "TVHeadend 143 EPG 正常",
+      "ok": true,
+      "desc": "HTTP 200 · 10 条节目（全量 1649 条）· 当前档：ViuTV《早晨新聞》（06:00 起）、*HOY 76《Bloomberg 時段[直播]》（06:00 起）、Jade《香港早晨[粵]》（06:00 起）。",
+      "src": "192.168.188.143:9981",
+      "href": "http://192.168.188.143:9981/api/epg/events/grid"
+    },
+    {
+      "tag": "EPG",
+      "time": "探测于 10-01 06:58",
+      "title": "TVHeadend 156 EPG 正常",
+      "ok": true,
+      "desc": "HTTP 200 · 10 条节目（全量 3787 条）· 当前档：CCTV-1《朝聞天下》（06:00 起）、ViuTV《早晨新聞》（06:00 起）、Pearl《金融概要[英]》（06:00 起）。",
+      "src": "192.168.120.156:9981",
+      "href": "http://192.168.120.156:9981/api/epg/events/grid"
+    }
+  ],
+  "boardMeta": {
+    "source": "https://artificialanalysis.ai/leaderboards/models",
+    "updated": "2026-10-01",
+    "total": 262,
+    "unscored": [
+      "EXAONE 4.5 33B (non-reasoning)",
+      "Gemini 3 Deep Think",
+      "Claude Sonnet 5.5 (low with fallback)",
+      "GPT-5.5 Pro (xhigh)",
+      "Cogito v2.1"
+    ],
+    "top10": [
+      {
+        "r": 1,
+        "n": "Claude Opus 5.5 (max with fallback)",
+        "o": "Anthropic",
+        "s": 58,
+        "st": false
+      },
+      {
+        "r": 2,
+        "n": "Claude Opus 5.5 (xhigh with fallback)",
+        "o": "Anthropic",
+        "s": 56,
+        "st": false
+      },
+      {
+        "r": 3,
+        "n": "Claude Sonnet 5.5 (max with fallback)",
+        "o": "Anthropic",
+        "s": 56,
+        "st": false
+      },
+      {
+        "r": 4,
+        "n": "Claude Opus 5.5 (high with fallback)",
+        "o": "Anthropic",
+        "s": 54,
+        "st": false
+      },
+      {
+        "r": 5,
+        "n": "Claude Fable 5.1 (max with fallback)",
+        "o": "Anthropic",
+        "s": 53,
+        "st": false
+      },
+      {
+        "r": 6,
+        "n": "Claude Fable 5.1 (xhigh with fallback)",
+        "o": "Anthropic",
+        "s": 53,
+        "st": false
+      },
+      {
+        "r": 7,
+        "n": "GPT-6 Astra (max)",
+        "o": "OpenAI",
+        "s": 53,
+        "st": false
+      },
+      {
+        "r": 8,
+        "n": "Gemini 4 Argon (high)",
+        "o": "Google",
+        "s": 53,
+        "st": false
+      },
+      {
+        "r": 9,
+        "n": "GPT-6 Astra (xhigh)",
+        "o": "OpenAI",
+        "s": 52,
+        "st": false
+      },
+      {
+        "r": 10,
+        "n": "Claude Sonnet 5.5 (xhigh with fallback)",
+        "o": "Anthropic",
+        "s": 52,
+        "st": false
+      }
+    ]
+  }
+}

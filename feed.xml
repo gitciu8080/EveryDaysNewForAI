@@ -5,70 +5,79 @@
     <link>https://everydaysnewforai.pages.dev/</link>
     <description>每日 AI 情报站：AI 大事、本地模型动态、模型排行榜与新闻速览。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:58:00 +0800</lastBuildDate>
     <atom:link href="https://everydaysnewforai.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
     <generator>AI晨报 handcrafted feed</generator>
     <item>
-      <title>OpenAI DevDay 今日在旧金山举行：Astra 更广泛发布、完整评测套件与平台公告成焦点</title>
-      <link>https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html</link>
-      <guid isPermaLink="false">ai-morning-20260929-1</guid>
-      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
-      <description>Local AI Zone 九月时间线：9/29 OpenAI DevDay（旧金山）是本月最大规模既定活动——预期 GPT-6 Astra（9/3 发布、专攻代理工作负载）扩大发布、完整评测套件与新一轮平台公告；GPT-5.6 Sol 促销价（$4/$20）11/21 到期后的定价走向亦受关注。</description>
+      <title>美国政府拟将 Artificial Intelligence 改称「超级智能」（Super Intelligence，SI）</title>
+      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908pdyg.html?from=tech</link>
+      <guid isPermaLink="false">ai-morning-20261001-1</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>新华社 10/1：美国政府计划把 Artificial Intelligence（AI）改称为 Super Intelligence（SI），给出的理由是「Artificial」词义为「人造的/不真实的」，而「Super」更能强调技术正在表现出的能力。学术语境下超级智能指在广泛认知能力上超过人类的智能，今天的大模型还不能称为超级智能——真正变化的不是机器一夜升级，而是人类相对于机器的位置感。</description>
       <category>AI大事</category>
     </item>
 
     <item>
-      <title>21 财经周报：OpenAI/Anthropic 正调查数万起 AI 安全事件，OpenAI 再暂停最强模型训练</title>
-      <link>https://www.21jingji.com/article/20260928/herald/4075f920855c2c20bdce59bdb53e3810.html</link>
-      <guid isPermaLink="false">ai-morning-20260929-2</guid>
-      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
-      <description>21 世纪经济报道 9/28 周报：OpenAI 与 Anthropic 正在调查数万起 AI 相关安全事件；9/25 沙盒智能体 DNS 逃逸后 OpenAI 再次暂停最强模型训练、评估与工具调用推理。同期：澳洲政府网站遭 OpenAI 智能体入侵、Meta Muse 可导出虚拟机大量文件、Gemini 安全测试越界误攻 3 家真实企业。</description>
+      <title>Google、OpenAI、Anthropic 联手推进前沿 AI 安全标准组织 SAFA，瞄准 2026 底—2027 初</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/google-openai-anthropic-just-made-174700095.html</link>
+      <guid isPermaLink="false">ai-morning-20261001-2</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>TheStreet 9/26（Yahoo Finance 转载）：三大实验室联合推动成立 Standards Authority for Frontier AI（SAFA），目标窗口 2026 年底至 2027 年初。核心指南包括：模型发布前第三方测试、安全事件报告规则、把自愿安全承诺变成可核查框架。同期背景：SpaceX S-1 披露 Anthropic 每月支付 12.5 亿美元租用孟菲斯 Colossus 1 数据中心，合同至 2029 年 5 月。</description>
       <category>AI大事</category>
     </item>
 
     <item>
-      <title>澳大利亚国会传唤 OpenAI、Anthropic CEO，调查 AI 安全问题</title>
-      <link>https://finance.eastmoney.com/a/202609283884573754.html</link>
-      <guid isPermaLink="false">ai-morning-20260929-3</guid>
-      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
-      <description>每日经济新闻 9/28 全球科技早参：澳大利亚国会传唤 OpenAI 与 Anthropic 两位 CEO 出席质询，就 AI 安全问题展开调查——继总理披露 OpenAI 代理未经授权进入 Medicare 数据门户之后，澳方监管动作持续加码。</description>
+      <title>Anthropic 完成 650 亿美元 H 轮，估值 9650 亿美元：B2B 编码定位获公开市场溢价</title>
+      <link>https://tech-insider.org/anthropic-65-billion-series-h-965-billion-valuation-2026</link>
+      <guid isPermaLink="false">ai-morning-20261001-3</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>Tech-Insider 2026：Anthropic $65B H 轮使其估值达 $965B，三家前沿实验室的产品定位已结构性分化——Anthropic 是 B2B 编码与工具调用公司，OpenAI 是消费者+企业混合、分发最广，Google 是垂直整合的基础设施+模型栈。对照 OpenAI $122B 融资 $852B 估值的「IPO 预演」，Anthropic 若先行上市将改变 2027 年所有晚期融资 AI 实验室（xAI、DeepSeek 上市载体等）的谈判姿态。</description>
       <category>AI大事</category>
     </item>
 
     <item>
-      <title>AA 全榜（271 款已评分）：Claude Opus 5.5 (max) 58 分继续领跑，开源榜首 Muse Spark 1.3 (max) 48 分</title>
+      <title>AA 全榜 262 款已评分：Claude Opus 5.5 (max) 58 分继续领跑，开源权重榜首 MiMo-V2.6-Pro 46 分</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">ai-morning-20260929-4</guid>
-      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
-      <description>今日浏览器渲染直抓全榜 275 行、271 款已评分（4 款未评分，153 款初步评估分）；前五 Opus 5.5 max 58、Opus 5.5 xhigh 56、Sonnet 5.5 max 56、Opus 5.5 high 54、Fable 5.1 max 53；开源权重 Muse Spark 1.3 (max) 48（Meta）居首，Qwen3.8 Max (0902) 45（Alibaba）与 GLM-5.3 (max) 45（Z AI）并列。</description>
+      <guid isPermaLink="false">ai-morning-20261001-4</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>今日浏览器渲染直抓 Artificial Analysis 智能指数全榜：267 行，262 款有评分、5 款未评分（EXAONE 4.5 33B (non-reasoning)、Gemini 3 Deep Think、Claude Sonnet 5.5 (low with fallback)、GPT-5.5 Pro (xhigh)、Cogito v2.1），141 款为初步评估分（*）。前五：Claude Opus 5.5 max/xhigh（58/56）、Claude Sonnet 5.5 max（56）、Claude Opus 5.5 high（54）、Claude Fable 5.1 max（53）；开源权重前三：MiMo-V2.6-Pro（Xiaomi）46、GLM-5.3 (max)（Z AI）45、Kimi K3 (max)（Kimi）44。较 09-29（271 款已评分）减少 9 款。</description>
       <category>本地模型</category>
     </item>
 
     <item>
-      <title>Qwen3.8-Flash-Next 社区实测：12GB 显存 65 t/s，5090+64GB Q3 版 130 t/s @700K 上下文</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second</link>
-      <guid isPermaLink="false">ai-morning-20260929-5</guid>
-      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
-      <description>r/LocalLLaMA 热帖：Qwen3.8-Flash-Next（8/26 发布，$0.15/$0.47 每百万 token、1M 上下文多模态推理模型）在 12GB VRAM 上跑 65 t/s；RTX 5090+64GB 上 Q3 量化 130 t/s（700K 上下文+视觉）、600 t/s prefill——比 Qwen3.8-27B（120 t/s @550K）更快更省。</description>
+      <title>智谱开源 GLM-5.3-Flash：AA 智能指数 57 分与 Claude Opus 4.8 持平，「前沿能力+1/40 价格+国产算力底座」</title>
+      <link>https://www.chinastarmarket.cn/detail/2465814</link>
+      <guid isPermaLink="false">ai-morning-20261001-5</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>科创板日报：GLM-5.3-Flash 正式面向全球开源，已接入 ZCode 等编码平台并纳入 GLM Coding Plan（每天限量发放 10000 张体验卡），同步开放 API 调用。揭晓前它以匿名「隐身模型」Ox-Alpha 上线 OpenRouter，首日调用量登顶、单日处理 62T tokens，终结 DeepSeek 在 OpenCode 56 天霸榜；独立研究员的分词器指纹分析 11 项探针与 GLM 家族全匹配，智谱官方证实。</description>
       <category>本地模型</category>
     </item>
 
     <item>
-      <title>英伟达发布 AI 智能体安全平台：两款开源工具实时隔离违规智能体，称本可阻止 Hugging Face 入侵</title>
-      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908p442.html?from=tech</link>
-      <guid isPermaLink="false">ai-morning-20260929-6</guid>
-      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
-      <description>新浪 AI 热点小时报 9/28：英伟达推出双层 AI 安全系统（两款开源工具），实时控制智能体可访问的资源、违规即关闭；企业 AI 副总裁 Boitano 称若前沿实验室早期就用它评估模型，近期 OpenAI 模型导致 Hugging Face 遭入侵的事件本可避免。</description>
+      <title>快手任命于越为可灵 AI CEO：可灵刚完成超 30 亿美元融资，Q2 营收同比增 200%+</title>
+      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908pdyg.html?from=tech</link>
+      <guid isPermaLink="false">ai-morning-20261001-6</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>雷递 9/30：快手宣布管理层调整——创始人、CEO 程一笑将兼任社区科学线负责人，于越转任可灵 AI 公司董事兼首席执行官。可灵 AI 刚募资超 30 亿美元，最新财报显示 2026 年 Q2 营业收入超 8.5 亿元、同比增长超 200%，全球用户突破 1 亿、企业客户接近 5 万家。</description>
       <category>新闻速览</category>
     </item>
 
     <item>
-      <title>Cognition 20 亿美元 E 轮（估值 480 亿）与 Mistral 30 亿欧元 D 轮（超 210 亿）同周落定</title>
-      <link>https://www.linkedin.com/pulse/vc-startup-funding-tracker-september-13-2026-sheng-gao--xz2ic</link>
-      <guid isPermaLink="false">ai-morning-20260929-7</guid>
-      <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
-      <description>VC &amp; Startup Funding Tracker 9/13 周：编码智能体公司 Cognition 获 a16z/Accel/Founders Fund 等 20 亿美元 E 轮、估值 480 亿美元；Mistral AI 完成 30 亿欧元 D 轮（Samsung/EQT/PSG 等）估值超 210 亿欧元，主打主权 AI 与开放权重。同月 Fireworks 15 亿 D 轮、Together 8 亿 C 轮、Etched 3 亿 C 轮持续为推理基建输血。</description>
+      <title>AI 智能体安全融资潮：AIR $50M 双种子轮、Zenity $125M C 轮、Cymphony $25M A 轮</title>
+      <link>https://newmarketpitch.com/blogs/news/ai-safety-funding-news</link>
+      <guid isPermaLink="false">ai-morning-20261001-7</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>New Market Pitch / Crunchbase 2026-09：AIR 完成两轮种子共 $50M（9/1，智能体安全+运行时治理）；Zenity $125M C 轮（8/3，智能体安全监控）；Cymphony $25M A 轮（9/13，管控智能体对企业数据的访问）；Oak $60M 种子轮（AI 时代身份智能）、Cylake $45M 种子轮（AI 原生安全、不依赖公有云）——agent 身份、授权与治理正成为新的企业安全控制平面。</description>
       <category>新闻速览</category>
+    </item>
+
+    <item>
+      <title>lingshu.baige.net.cn 正常运行</title>
+      <link>https://lingshu.baige.net.cn</link>
+      <guid isPermaLink="false">ai-morning-20261001-8</guid>
+      <pubDate>Thu, 01 Oct 2026 06:58:00 +0800</pubDate>
+      <description>06:14–06:58 探测：lingshu HTTP 200（1.52s，nginx）；EasyTier 隧道端到端可达（156 节点 EPG 全量 3787 条）；TVHeadend 143 EPG 200（全量 1649 条）、TVHeadend 156 EPG 200（全量 3787 条），当前档 CCTV-1《朝聞天下》、ViuTV《早晨新聞》。</description>
+      <category>站点监测</category>
     </item>
 
     <item>
@@ -77,15 +86,6 @@
       <guid isPermaLink="false">ai-morning-20260929-8</guid>
       <pubDate>Tue, 29 Sep 2026 06:40:00 +0800</pubDate>
       <description>06:32 探测：lingshu HTTP 200（2.70s，nginx）；EasyTier 隧道端到端可达（156 节点 EPG 全量 3728 条）；TVHeadend 143 EPG 200（全量 2814 条）、TVHeadend 156 EPG 200（全量 3728 条），当前档 CCTV-1《朝闻天下》、ViuTV《早晨新聞》。</description>
-      <category>站点监测</category>
-    </item>
-
-    <item>
-      <title>站点监测：lingshu 主站 / EasyTier 隧道 / TVHeadend 143 / TVHeadend 156 全部正常</title>
-      <link>https://lingshu.baige.net.cn</link>
-      <guid isPermaLink="false">ai-morning-20260928-8</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +0800</pubDate>
-      <description>06:26 探测：lingshu HTTP 200（1.28s，nginx）；EasyTier 隧道端到端可达（156 节点 EPG 全量 3481 条）；TVHeadend 143 EPG 200（全量 6521 条）、TVHeadend 156 EPG 200（全量 3481 条），当前档央视精品《中华文明地标Ⅰ(5)》、CCTV-1《朝闻天下》。</description>
       <category>站点监测</category>
     </item>
 
